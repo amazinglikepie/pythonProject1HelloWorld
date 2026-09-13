@@ -1,0 +1,41 @@
+litellm_provider,bloc,note
+openai,US,vendor's own API
+anthropic,US,vendor's own API
+gemini,US,Google AI Studio / Gemini API (vendor's own)
+xai,US,vendor's own API
+perplexity,US,vendor's own API
+deepseek,CN,vendor's own API (api-docs.deepseek.com; USD international prices)
+dashscope,CN,Alibaba Cloud Model Studio (DashScope) — which region's price the catalog carries is checked in stage 6
+qwencloud,CN,Alibaba Cloud Model Studio international (qwencloud) — checked in stage 6
+qwen_ai_platform,CN,Alibaba Qwen AI platform — checked in stage 6
+moonshot,CN,Moonshot / Kimi vendor API
+zai,CN,Z.ai (Zhipu) vendor API
+minimax,CN,MiniMax vendor API
+volcengine,CN,ByteDance Volcano Engine (Doubao) vendor API
+baidu,CN,Baidu Qianfan
+qianfan,CN,Baidu Qianfan
+mistral,NEITHER,France
+cohere,NEITHER,Canada
+ai21,NEITHER,Israel
+together_ai,HOST_US,US host reselling models
+fireworks_ai,HOST_US,US host reselling models
+deepinfra,HOST_US,US host reselling models
+groq,HOST_US,US host reselling models
+novita,HOST,host reselling models
+nebius,HOST,host reselling models
+openrouter,HOST,aggregator
+vercel_ai_gateway,HOST,aggregator
+bedrock,HOST_US,Amazon Bedrock reselling models (Amazon's own Nova models excluded from vendor-own set)
+bedrock_converse,HOST_US,Amazon Bedrock
+azure,HOST_US,Microsoft Azure reselling OpenAI models
+azure_ai,HOST_US,Microsoft Azure AI Foundry
+vertex_ai,HOST_US,Google Cloud Vertex reselling
+vertex_ai-language-models,HOST_US,Google Cloud Vertex (Gemini on Vertex; treated as host to keep one Google price source)
+vertex_ai-anthropic_models,HOST_US,Google Cloud Vertex reselling Anthropic
+vertex_ai-mistral_models,HOST_US,Google Cloud Vertex reselling Mistral
+vertex_ai-embedding-models,HOST_US,Google Cloud Vertex
+databricks,HOST_US,host
+sambanova,HOST_US,host
+hyperbolic,HOST_US,host
+lambda_ai,HOST_US,host
+gmi,HOST_US,host

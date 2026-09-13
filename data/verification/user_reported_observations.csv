@@ -1,0 +1,10 @@
+observed_date,observer,source_url,model,field,value,note
+2026-09-13,project owner (screenshot of the official page),https://openai.com/api/pricing/,GPT-5.6 Sol,input_usd_per_mtok_list,5.00,"shown struck through under the heading 'Promotional pricing*'"
+2026-09-13,project owner (screenshot of the official page),https://openai.com/api/pricing/,GPT-5.6 Sol,input_usd_per_mtok_promo,4.00,"promotional price; footnote: 'Available at least through November 21, 2026'"
+2026-09-13,project owner (screenshot of the official page),https://openai.com/api/pricing/,GPT-5.6 Sol,cached_input_usd_per_mtok_list,0.50,"struck through"
+2026-09-13,project owner (screenshot of the official page),https://openai.com/api/pricing/,GPT-5.6 Sol,cached_input_usd_per_mtok_promo,0.40,
+2026-09-13,project owner (screenshot of the official page),https://openai.com/api/pricing/,GPT-5.6 Sol,output_usd_per_mtok_list,30.00,"struck through"
+2026-09-13,project owner (screenshot of the official page),https://openai.com/api/pricing/,GPT-5.6 Sol,output_usd_per_mtok_promo,20.00,"promotional price; resolves cross-check disagreement 2 in CHECKPOINT_2.md: Qiu tracker recorded the list price, modelpricewatch the promotional price"
+2026-09-13,project owner,https://www.gradually.ai/en/llm-price-index/,(site),export_available,no,"no download/export/CSV/JSON link found on the page"
+2026-09-13,project owner,https://pricepertoken.com/pricing-history,(site),export_available,no,"no download/export/CSV/JSON link found on the page"
+2026-09-13,project owner,https://artificialanalysis.ai/models,(site),chart_export_available,paywalled,"chart download requires a paid plan; per-model pages still display the Intelligence Index"

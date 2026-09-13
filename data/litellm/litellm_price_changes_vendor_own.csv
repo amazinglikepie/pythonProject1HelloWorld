@@ -72,7 +72,6 @@ CN,deepseek,deepseek-v4-flash,2026-08-19,634e699555ba0a5d629517764ceca642d962bb5
 CN,deepseek,deepseek-v4-pro,2026-08-19,634e699555ba0a5d629517764ceca642d962bb53,0.435,0.87,1.32,3.96,increase_or_mixed
 CN,deepseek,deepseek/deepseek-v4-flash,2026-08-19,634e699555ba0a5d629517764ceca642d962bb53,0.14,0.28,0.44,1.32,increase_or_mixed
 CN,deepseek,deepseek/deepseek-v4-pro,2026-08-19,634e699555ba0a5d629517764ceca642d962bb53,0.435,0.87,1.32,3.96,increase_or_mixed
-US,openai,daybreak-blue-latest,2026-08-22,0a869b72268685b27d5a0be4742221dc8f24d6db,5.0,30.0,4.0,20.0,cut
 US,openai,gpt-5.6,2026-08-22,0a869b72268685b27d5a0be4742221dc8f24d6db,5.0,30.0,4.0,20.0,cut
 US,openai,gpt-5.6-sol,2026-08-22,0a869b72268685b27d5a0be4742221dc8f24d6db,5.0,30.0,4.0,20.0,cut
 US,gemini,gemini/gemini-2.5-flash-lite-preview-06-17,2026-08-26,1e1c23107685efaa2a899274d02c2cc9d1014196,0.09999999999999999,0.39999999999999997,0.1,0.4,increase_or_mixed
@@ -105,16 +104,6 @@ US,xai,xai/grok-4-1-fast-reasoning-latest,2026-08-29,42d8360f297db9057c205ea0281
 US,xai,xai/grok-4-fast-non-reasoning,2026-08-29,42d8360f297db9057c205ea0281f15a7c2e4f67e,0.19999999999999998,0.5,1.25,2.5,increase_or_mixed
 US,xai,xai/grok-4-fast-reasoning,2026-08-29,42d8360f297db9057c205ea0281f15a7c2e4f67e,0.19999999999999998,0.5,1.25,2.5,increase_or_mixed
 US,xai,xai/grok-4-latest,2026-08-29,42d8360f297db9057c205ea0281f15a7c2e4f67e,3.0,15.0,1.25,2.5,cut
-US,perplexity,perplexity/anthropic/claude-haiku-4-5,2026-09-03,f29266760109252966e9b1739ceb6a9b97bac523,,,1.0,5.0,increase_or_mixed
-US,perplexity,perplexity/anthropic/claude-opus-4-5,2026-09-03,f29266760109252966e9b1739ceb6a9b97bac523,,,5.0,25.0,increase_or_mixed
-US,perplexity,perplexity/anthropic/claude-opus-4-6,2026-09-03,f29266760109252966e9b1739ceb6a9b97bac523,,,5.0,25.0,increase_or_mixed
-US,perplexity,perplexity/anthropic/claude-opus-4-7,2026-09-03,f29266760109252966e9b1739ceb6a9b97bac523,,,5.0,25.0,increase_or_mixed
-US,perplexity,perplexity/anthropic/claude-sonnet-4-5,2026-09-03,f29266760109252966e9b1739ceb6a9b97bac523,,,3.0,15.0,increase_or_mixed
-US,perplexity,perplexity/google/gemini-3-flash-preview,2026-09-03,f29266760109252966e9b1739ceb6a9b97bac523,,,0.5,3.0,increase_or_mixed
-US,perplexity,perplexity/openai/gpt-5-mini,2026-09-03,f29266760109252966e9b1739ceb6a9b97bac523,,,0.25,2.0,increase_or_mixed
-US,perplexity,perplexity/openai/gpt-5.1,2026-09-03,f29266760109252966e9b1739ceb6a9b97bac523,,,1.25,10.0,increase_or_mixed
-US,perplexity,perplexity/openai/gpt-5.2,2026-09-03,f29266760109252966e9b1739ceb6a9b97bac523,,,1.75,14.0,increase_or_mixed
-US,perplexity,perplexity/perplexity/sonar,2026-09-03,f29266760109252966e9b1739ceb6a9b97bac523,,,0.25,2.5,increase_or_mixed
 CN,deepseek,deepseek-v4-flash,2026-09-11,71f45683d73d741db4e8c0801045b75296ee7b54,0.44,1.32,0.3,1.2,cut
 CN,deepseek,deepseek-v4-flash-vision-exp,2026-09-11,71f45683d73d741db4e8c0801045b75296ee7b54,0.44,1.32,0.3,1.2,cut
 CN,deepseek,deepseek/deepseek-v4-flash,2026-09-11,71f45683d73d741db4e8c0801045b75296ee7b54,0.44,1.32,0.3,1.2,cut

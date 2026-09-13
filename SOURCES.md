@@ -64,3 +64,12 @@ https://github.com/latitude-dev/llm-pricing , https://github.com/wordenneapolita
 Web searches run: "modelpricewatch.com API v1 LLM model pricing history endpoints documentation" and
 "modelpricewatch price-history.json github romanshumy llm-prices-data" (~07:00 UTC), used to locate the API file
 names and the data repository.
+
+## Added at checkpoint 3 (2026-09-13)
+
+| Source | URL | Status | What was obtained |
+|---|---|---|---|
+| LiteLLM price catalog, git history (substitute source, **approved by the project owner on 2026-09-13**) | https://github.com/BerriAI/litellm , file `model_prices_and_context_window.json`; each sampled version at `https://raw.githubusercontent.com/BerriAI/litellm/<commit>/model_prices_and_context_window.json` | **Obtained**: history-only clone ~07:12 UTC (48,826 commits), 674 versions downloaded and integrity-verified | `data/raw/litellm/`, `data/verification/litellm_*` |
+| FRED DEXCHUS | https://fred.stlouisfed.org/graph/fredgraph.csv?id=DEXCHUS | **Obtained**, fetched by the project owner (see `data/raw/fx/FETCH_LOG.md`) | `data/raw/fx/DEXCHUS.csv` |
+| OpenAI pricing page (GPT-5.6 Sol) | https://openai.com/api/pricing/ | Observed by the project owner (screenshot), 2026-09-13 | `data/verification/user_reported_observations.csv` |
+| Artificial Analysis models page (for Intelligence Index) | https://artificialanalysis.ai/models | Requested from the project owner as a saved page | pending |

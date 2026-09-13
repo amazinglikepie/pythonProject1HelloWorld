@@ -1,0 +1,1161 @@
+date,qiu_vendor,qiu_product,litellm_key,litellm_provider,qiu_input,qiu_output,litellm_input,litellm_output,litellm_point_day,result
+2026-09-12,OpenAI,GPT-5.6 Sol (<272K context),gpt-5.6-sol,openai,5.0,30.0,4.0,20.0,2026-08-22,DISAGREE
+2026-09-12,OpenAI,GPT-5.6 Terra (<272K context),gpt-5.6-terra,openai,2.0,12.0,2.0,12.0,2026-07-31,AGREE
+2026-09-12,OpenAI,GPT-5.6 Luna (<272K context),gpt-5.6-luna,openai,0.2,1.2,0.2,1.2,2026-07-31,AGREE
+2026-09-12,Google,Gemini 3.7 Flash,gemini/gemini-3.7-flash,gemini,0.75,3.75,0.75,3.75,2026-08-13,AGREE
+2026-09-12,Anthropic,Claude Fable 5,claude-fable-5,anthropic,10.0,50.0,10.0,50.0,2026-06-10,AGREE
+2026-09-12,Anthropic,Claude Mythos 5 (limited access),claude-mythos-5,anthropic,10.0,50.0,10.0,50.0,2026-08-10,AGREE
+2026-09-12,Anthropic,Claude Opus 5,claude-opus-5,anthropic,5.0,25.0,5.0,25.0,2026-07-31,AGREE
+2026-09-12,Anthropic,Claude Sonnet 5,claude-sonnet-5,anthropic,2.0,10.0,2.0,10.0,2026-07-02,AGREE
+2026-09-12,DeepSeek,DeepSeek V4 Flash 0731,deepseek-v4-flash,deepseek,0.44,1.32,0.3,1.2,2026-09-11,DISAGREE
+2026-09-12,DeepSeek,DeepSeek V4 Flash 0731,deepseek/deepseek-v4-flash,deepseek,0.44,1.32,0.3,1.2,2026-09-11,DISAGREE
+2026-09-12,DeepSeek,DeepSeek V4 Pro 0813,deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-09-12,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-09-12,Qwen / Alibaba Cloud,qwen3.7-max,dashscope/qwen3.7-max,dashscope,1.25,3.75,2.5,7.5,2026-07-31,DISAGREE
+2026-09-12,Qwen / Alibaba Cloud,qwen3.7-max,qwen_ai_platform/qwen3.7-max,qwen_ai_platform,1.25,3.75,2.5,7.5,2026-09-01,DISAGREE
+2026-09-12,Qwen / Alibaba Cloud,qwen3.7-max,qwencloud/qwen3.7-max,qwencloud,1.25,3.75,2.5,7.5,2026-09-01,DISAGREE
+2026-09-12,Together AI / Z AI,GLM-5.2,zai/glm-5.2,zai,1.4,4.4,1.4,4.4,2026-09-01,AGREE
+2026-09-12,Moonshot AI / Kimi,kimi-k3,moonshot/kimi-k3,moonshot,3.0,15.0,3.0,15.0,2026-08-21,AGREE
+2026-09-12,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,0.95,4.0,2026-08-28,AGREE
+2026-09-12,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,0.3,1.2,0.3,1.2,2026-06-10,AGREE
+2026-09-12,xAI,Grok 4.6 (<=500K context),xai/grok-4.6,xai,2.0,6.0,2.0,6.0,2026-08-13,AGREE
+2026-09-11,OpenAI,GPT-5.6 Sol (<272K context),gpt-5.6-sol,openai,5.0,30.0,4.0,20.0,2026-08-22,DISAGREE
+2026-09-11,OpenAI,GPT-5.6 Terra (<272K context),gpt-5.6-terra,openai,2.0,12.0,2.0,12.0,2026-07-31,AGREE
+2026-09-11,OpenAI,GPT-5.6 Luna (<272K context),gpt-5.6-luna,openai,0.2,1.2,0.2,1.2,2026-07-31,AGREE
+2026-09-11,Google,Gemini 3.7 Flash,gemini/gemini-3.7-flash,gemini,0.75,3.75,0.75,3.75,2026-08-13,AGREE
+2026-09-11,Anthropic,Claude Fable 5,claude-fable-5,anthropic,10.0,50.0,10.0,50.0,2026-06-10,AGREE
+2026-09-11,Anthropic,Claude Mythos 5 (limited access),claude-mythos-5,anthropic,10.0,50.0,10.0,50.0,2026-08-10,AGREE
+2026-09-11,Anthropic,Claude Opus 5,claude-opus-5,anthropic,5.0,25.0,5.0,25.0,2026-07-31,AGREE
+2026-09-11,Anthropic,Claude Sonnet 5,claude-sonnet-5,anthropic,2.0,10.0,2.0,10.0,2026-07-02,AGREE
+2026-09-11,DeepSeek,DeepSeek V4 Flash 0731,deepseek-v4-flash,deepseek,0.44,1.32,0.3,1.2,2026-09-11,DISAGREE
+2026-09-11,DeepSeek,DeepSeek V4 Flash 0731,deepseek/deepseek-v4-flash,deepseek,0.44,1.32,0.3,1.2,2026-09-11,DISAGREE
+2026-09-11,DeepSeek,DeepSeek V4 Pro 0813,deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-09-11,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-09-11,Qwen / Alibaba Cloud,qwen3.7-max,dashscope/qwen3.7-max,dashscope,1.25,3.75,2.5,7.5,2026-07-31,DISAGREE
+2026-09-11,Qwen / Alibaba Cloud,qwen3.7-max,qwen_ai_platform/qwen3.7-max,qwen_ai_platform,1.25,3.75,2.5,7.5,2026-09-01,DISAGREE
+2026-09-11,Qwen / Alibaba Cloud,qwen3.7-max,qwencloud/qwen3.7-max,qwencloud,1.25,3.75,2.5,7.5,2026-09-01,DISAGREE
+2026-09-11,Together AI / Z AI,GLM-5.2,zai/glm-5.2,zai,1.4,4.4,1.4,4.4,2026-09-01,AGREE
+2026-09-11,Moonshot AI / Kimi,kimi-k3,moonshot/kimi-k3,moonshot,3.0,15.0,3.0,15.0,2026-08-21,AGREE
+2026-09-11,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,0.95,4.0,2026-08-28,AGREE
+2026-09-11,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,0.3,1.2,0.3,1.2,2026-06-10,AGREE
+2026-09-11,xAI,Grok 4.6 (<=500K context),xai/grok-4.6,xai,2.0,6.0,2.0,6.0,2026-08-13,AGREE
+2026-09-10,OpenAI,GPT-5.6 Sol (<272K context),gpt-5.6-sol,openai,5.0,30.0,4.0,20.0,2026-08-22,DISAGREE
+2026-09-10,OpenAI,GPT-5.6 Terra (<272K context),gpt-5.6-terra,openai,2.0,12.0,2.0,12.0,2026-07-31,AGREE
+2026-09-10,OpenAI,GPT-5.6 Luna (<272K context),gpt-5.6-luna,openai,0.2,1.2,0.2,1.2,2026-07-31,AGREE
+2026-09-10,Google,Gemini 3.7 Flash,gemini/gemini-3.7-flash,gemini,0.75,3.75,0.75,3.75,2026-08-13,AGREE
+2026-09-10,Anthropic,Claude Fable 5,claude-fable-5,anthropic,10.0,50.0,10.0,50.0,2026-06-10,AGREE
+2026-09-10,Anthropic,Claude Mythos 5 (limited access),claude-mythos-5,anthropic,10.0,50.0,10.0,50.0,2026-08-10,AGREE
+2026-09-10,Anthropic,Claude Opus 5,claude-opus-5,anthropic,5.0,25.0,5.0,25.0,2026-07-31,AGREE
+2026-09-10,Anthropic,Claude Sonnet 5,claude-sonnet-5,anthropic,2.0,10.0,2.0,10.0,2026-07-02,AGREE
+2026-09-10,DeepSeek,DeepSeek V4 Flash 0731,deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-09-10,DeepSeek,DeepSeek V4 Flash 0731,deepseek/deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-09-10,DeepSeek,DeepSeek V4 Pro 0813,deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-09-10,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-09-10,Qwen / Alibaba Cloud,qwen3.7-max,dashscope/qwen3.7-max,dashscope,1.25,3.75,2.5,7.5,2026-07-31,DISAGREE
+2026-09-10,Qwen / Alibaba Cloud,qwen3.7-max,qwen_ai_platform/qwen3.7-max,qwen_ai_platform,1.25,3.75,2.5,7.5,2026-09-01,DISAGREE
+2026-09-10,Qwen / Alibaba Cloud,qwen3.7-max,qwencloud/qwen3.7-max,qwencloud,1.25,3.75,2.5,7.5,2026-09-01,DISAGREE
+2026-09-10,Together AI / Z AI,GLM-5.2,zai/glm-5.2,zai,1.4,4.4,1.4,4.4,2026-09-01,AGREE
+2026-09-10,Moonshot AI / Kimi,kimi-k3,moonshot/kimi-k3,moonshot,3.0,15.0,3.0,15.0,2026-08-21,AGREE
+2026-09-10,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,0.95,4.0,2026-08-28,AGREE
+2026-09-10,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,0.3,1.2,0.3,1.2,2026-06-10,AGREE
+2026-09-10,xAI,Grok 4.6 (<=500K context),xai/grok-4.6,xai,2.0,6.0,2.0,6.0,2026-08-13,AGREE
+2026-09-09,OpenAI,GPT-5.6 Sol (<272K context),gpt-5.6-sol,openai,5.0,30.0,4.0,20.0,2026-08-22,DISAGREE
+2026-09-09,OpenAI,GPT-5.6 Terra (<272K context),gpt-5.6-terra,openai,2.0,12.0,2.0,12.0,2026-07-31,AGREE
+2026-09-09,OpenAI,GPT-5.6 Luna (<272K context),gpt-5.6-luna,openai,0.2,1.2,0.2,1.2,2026-07-31,AGREE
+2026-09-09,Google,Gemini 3.7 Flash,gemini/gemini-3.7-flash,gemini,0.75,3.75,0.75,3.75,2026-08-13,AGREE
+2026-09-09,Anthropic,Claude Fable 5,claude-fable-5,anthropic,10.0,50.0,10.0,50.0,2026-06-10,AGREE
+2026-09-09,Anthropic,Claude Mythos 5 (limited access),claude-mythos-5,anthropic,10.0,50.0,10.0,50.0,2026-08-10,AGREE
+2026-09-09,Anthropic,Claude Opus 5,claude-opus-5,anthropic,5.0,25.0,5.0,25.0,2026-07-31,AGREE
+2026-09-09,Anthropic,Claude Sonnet 5,claude-sonnet-5,anthropic,2.0,10.0,2.0,10.0,2026-07-02,AGREE
+2026-09-09,DeepSeek,DeepSeek V4 Flash 0731,deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-09-09,DeepSeek,DeepSeek V4 Flash 0731,deepseek/deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-09-09,DeepSeek,DeepSeek V4 Pro 0813,deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-09-09,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-09-09,Qwen / Alibaba Cloud,qwen3.7-max,dashscope/qwen3.7-max,dashscope,1.25,3.75,2.5,7.5,2026-07-31,DISAGREE
+2026-09-09,Qwen / Alibaba Cloud,qwen3.7-max,qwen_ai_platform/qwen3.7-max,qwen_ai_platform,1.25,3.75,2.5,7.5,2026-09-01,DISAGREE
+2026-09-09,Qwen / Alibaba Cloud,qwen3.7-max,qwencloud/qwen3.7-max,qwencloud,1.25,3.75,2.5,7.5,2026-09-01,DISAGREE
+2026-09-09,Together AI / Z AI,GLM-5.2,zai/glm-5.2,zai,1.4,4.4,1.4,4.4,2026-09-01,AGREE
+2026-09-09,Moonshot AI / Kimi,kimi-k3,moonshot/kimi-k3,moonshot,3.0,15.0,3.0,15.0,2026-08-21,AGREE
+2026-09-09,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,0.95,4.0,2026-08-28,AGREE
+2026-09-09,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,0.3,1.2,0.3,1.2,2026-06-10,AGREE
+2026-09-09,xAI,Grok 4.6 (<=500K context),xai/grok-4.6,xai,2.0,6.0,2.0,6.0,2026-08-13,AGREE
+2026-09-08,OpenAI,GPT-5.6 Sol (<272K context),gpt-5.6-sol,openai,5.0,30.0,4.0,20.0,2026-08-22,DISAGREE
+2026-09-08,OpenAI,GPT-5.6 Terra (<272K context),gpt-5.6-terra,openai,2.0,12.0,2.0,12.0,2026-07-31,AGREE
+2026-09-08,OpenAI,GPT-5.6 Luna (<272K context),gpt-5.6-luna,openai,0.2,1.2,0.2,1.2,2026-07-31,AGREE
+2026-09-08,Google,Gemini 3.7 Flash,gemini/gemini-3.7-flash,gemini,0.75,3.75,0.75,3.75,2026-08-13,AGREE
+2026-09-08,Anthropic,Claude Fable 5,claude-fable-5,anthropic,10.0,50.0,10.0,50.0,2026-06-10,AGREE
+2026-09-08,Anthropic,Claude Mythos 5 (limited access),claude-mythos-5,anthropic,10.0,50.0,10.0,50.0,2026-08-10,AGREE
+2026-09-08,Anthropic,Claude Opus 5,claude-opus-5,anthropic,5.0,25.0,5.0,25.0,2026-07-31,AGREE
+2026-09-08,Anthropic,Claude Sonnet 5,claude-sonnet-5,anthropic,2.0,10.0,2.0,10.0,2026-07-02,AGREE
+2026-09-08,DeepSeek,DeepSeek V4 Flash 0731,deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-09-08,DeepSeek,DeepSeek V4 Flash 0731,deepseek/deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-09-08,DeepSeek,DeepSeek V4 Pro 0813,deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-09-08,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-09-08,Qwen / Alibaba Cloud,qwen3.7-max,dashscope/qwen3.7-max,dashscope,1.25,3.75,2.5,7.5,2026-07-31,DISAGREE
+2026-09-08,Qwen / Alibaba Cloud,qwen3.7-max,qwen_ai_platform/qwen3.7-max,qwen_ai_platform,1.25,3.75,2.5,7.5,2026-09-01,DISAGREE
+2026-09-08,Qwen / Alibaba Cloud,qwen3.7-max,qwencloud/qwen3.7-max,qwencloud,1.25,3.75,2.5,7.5,2026-09-01,DISAGREE
+2026-09-08,Together AI / Z AI,GLM-5.2,zai/glm-5.2,zai,1.4,4.4,1.4,4.4,2026-09-01,AGREE
+2026-09-08,Moonshot AI / Kimi,kimi-k3,moonshot/kimi-k3,moonshot,3.0,15.0,3.0,15.0,2026-08-21,AGREE
+2026-09-08,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,0.95,4.0,2026-08-28,AGREE
+2026-09-08,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,0.3,1.2,0.3,1.2,2026-06-10,AGREE
+2026-09-08,xAI,Grok 4.6 (<=500K context),xai/grok-4.6,xai,2.0,6.0,2.0,6.0,2026-08-13,AGREE
+2026-09-07,OpenAI,GPT-5.6 Sol (<272K context),gpt-5.6-sol,openai,5.0,30.0,4.0,20.0,2026-08-22,DISAGREE
+2026-09-07,OpenAI,GPT-5.6 Terra (<272K context),gpt-5.6-terra,openai,2.0,12.0,2.0,12.0,2026-07-31,AGREE
+2026-09-07,OpenAI,GPT-5.6 Luna (<272K context),gpt-5.6-luna,openai,0.2,1.2,0.2,1.2,2026-07-31,AGREE
+2026-09-07,Google,Gemini 3.7 Flash,gemini/gemini-3.7-flash,gemini,0.75,3.75,0.75,3.75,2026-08-13,AGREE
+2026-09-07,Anthropic,Claude Fable 5,claude-fable-5,anthropic,10.0,50.0,10.0,50.0,2026-06-10,AGREE
+2026-09-07,Anthropic,Claude Mythos 5 (limited access),claude-mythos-5,anthropic,10.0,50.0,10.0,50.0,2026-08-10,AGREE
+2026-09-07,Anthropic,Claude Opus 5,claude-opus-5,anthropic,5.0,25.0,5.0,25.0,2026-07-31,AGREE
+2026-09-07,Anthropic,Claude Sonnet 5,claude-sonnet-5,anthropic,2.0,10.0,2.0,10.0,2026-07-02,AGREE
+2026-09-07,DeepSeek,DeepSeek V4 Flash 0731,deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-09-07,DeepSeek,DeepSeek V4 Flash 0731,deepseek/deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-09-07,DeepSeek,DeepSeek V4 Pro 0813,deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-09-07,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-09-07,Qwen / Alibaba Cloud,qwen3.7-max,dashscope/qwen3.7-max,dashscope,1.25,3.75,2.5,7.5,2026-07-31,DISAGREE
+2026-09-07,Qwen / Alibaba Cloud,qwen3.7-max,qwen_ai_platform/qwen3.7-max,qwen_ai_platform,1.25,3.75,2.5,7.5,2026-09-01,DISAGREE
+2026-09-07,Qwen / Alibaba Cloud,qwen3.7-max,qwencloud/qwen3.7-max,qwencloud,1.25,3.75,2.5,7.5,2026-09-01,DISAGREE
+2026-09-07,Together AI / Z AI,GLM-5.2,zai/glm-5.2,zai,1.4,4.4,1.4,4.4,2026-09-01,AGREE
+2026-09-07,Moonshot AI / Kimi,kimi-k3,moonshot/kimi-k3,moonshot,3.0,15.0,3.0,15.0,2026-08-21,AGREE
+2026-09-07,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,0.95,4.0,2026-08-28,AGREE
+2026-09-07,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,0.3,1.2,0.3,1.2,2026-06-10,AGREE
+2026-09-07,xAI,Grok 4.6 (<=500K context),xai/grok-4.6,xai,2.0,6.0,2.0,6.0,2026-08-13,AGREE
+2026-09-06,OpenAI,GPT-5.6 Sol (<272K context),gpt-5.6-sol,openai,5.0,30.0,4.0,20.0,2026-08-22,DISAGREE
+2026-09-06,OpenAI,GPT-5.6 Terra (<272K context),gpt-5.6-terra,openai,2.0,12.0,2.0,12.0,2026-07-31,AGREE
+2026-09-06,OpenAI,GPT-5.6 Luna (<272K context),gpt-5.6-luna,openai,0.2,1.2,0.2,1.2,2026-07-31,AGREE
+2026-09-06,Google,Gemini 3.7 Flash,gemini/gemini-3.7-flash,gemini,0.75,3.75,0.75,3.75,2026-08-13,AGREE
+2026-09-06,Anthropic,Claude Fable 5,claude-fable-5,anthropic,10.0,50.0,10.0,50.0,2026-06-10,AGREE
+2026-09-06,Anthropic,Claude Mythos 5 (limited access),claude-mythos-5,anthropic,10.0,50.0,10.0,50.0,2026-08-10,AGREE
+2026-09-06,Anthropic,Claude Opus 5,claude-opus-5,anthropic,5.0,25.0,5.0,25.0,2026-07-31,AGREE
+2026-09-06,Anthropic,Claude Sonnet 5,claude-sonnet-5,anthropic,2.0,10.0,2.0,10.0,2026-07-02,AGREE
+2026-09-06,DeepSeek,DeepSeek V4 Flash 0731,deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-09-06,DeepSeek,DeepSeek V4 Flash 0731,deepseek/deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-09-06,DeepSeek,DeepSeek V4 Pro 0813,deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-09-06,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-09-06,Qwen / Alibaba Cloud,qwen3.7-max,dashscope/qwen3.7-max,dashscope,1.25,3.75,2.5,7.5,2026-07-31,DISAGREE
+2026-09-06,Qwen / Alibaba Cloud,qwen3.7-max,qwen_ai_platform/qwen3.7-max,qwen_ai_platform,1.25,3.75,2.5,7.5,2026-09-01,DISAGREE
+2026-09-06,Qwen / Alibaba Cloud,qwen3.7-max,qwencloud/qwen3.7-max,qwencloud,1.25,3.75,2.5,7.5,2026-09-01,DISAGREE
+2026-09-06,Together AI / Z AI,GLM-5.2,zai/glm-5.2,zai,1.4,4.4,1.4,4.4,2026-09-01,AGREE
+2026-09-06,Moonshot AI / Kimi,kimi-k3,moonshot/kimi-k3,moonshot,3.0,15.0,3.0,15.0,2026-08-21,AGREE
+2026-09-06,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,0.95,4.0,2026-08-28,AGREE
+2026-09-06,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,0.3,1.2,0.3,1.2,2026-06-10,AGREE
+2026-09-06,xAI,Grok 4.6 (<=500K context),xai/grok-4.6,xai,2.0,6.0,2.0,6.0,2026-08-13,AGREE
+2026-09-05,OpenAI,GPT-5.6 Sol (<272K context),gpt-5.6-sol,openai,5.0,30.0,4.0,20.0,2026-08-22,DISAGREE
+2026-09-05,OpenAI,GPT-5.6 Terra (<272K context),gpt-5.6-terra,openai,2.0,12.0,2.0,12.0,2026-07-31,AGREE
+2026-09-05,OpenAI,GPT-5.6 Luna (<272K context),gpt-5.6-luna,openai,0.2,1.2,0.2,1.2,2026-07-31,AGREE
+2026-09-05,Google,Gemini 3.7 Flash,gemini/gemini-3.7-flash,gemini,0.75,3.75,0.75,3.75,2026-08-13,AGREE
+2026-09-05,Anthropic,Claude Fable 5,claude-fable-5,anthropic,10.0,50.0,10.0,50.0,2026-06-10,AGREE
+2026-09-05,Anthropic,Claude Mythos 5 (limited access),claude-mythos-5,anthropic,10.0,50.0,10.0,50.0,2026-08-10,AGREE
+2026-09-05,Anthropic,Claude Opus 5,claude-opus-5,anthropic,5.0,25.0,5.0,25.0,2026-07-31,AGREE
+2026-09-05,Anthropic,Claude Sonnet 5,claude-sonnet-5,anthropic,2.0,10.0,2.0,10.0,2026-07-02,AGREE
+2026-09-05,DeepSeek,DeepSeek V4 Flash 0731,deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-09-05,DeepSeek,DeepSeek V4 Flash 0731,deepseek/deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-09-05,DeepSeek,DeepSeek V4 Pro 0813,deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-09-05,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-09-05,Qwen / Alibaba Cloud,qwen3.7-max,dashscope/qwen3.7-max,dashscope,1.25,3.75,2.5,7.5,2026-07-31,DISAGREE
+2026-09-05,Qwen / Alibaba Cloud,qwen3.7-max,qwen_ai_platform/qwen3.7-max,qwen_ai_platform,1.25,3.75,2.5,7.5,2026-09-01,DISAGREE
+2026-09-05,Qwen / Alibaba Cloud,qwen3.7-max,qwencloud/qwen3.7-max,qwencloud,1.25,3.75,2.5,7.5,2026-09-01,DISAGREE
+2026-09-05,Together AI / Z AI,GLM-5.2,zai/glm-5.2,zai,1.4,4.4,1.4,4.4,2026-09-01,AGREE
+2026-09-05,Moonshot AI / Kimi,kimi-k3,moonshot/kimi-k3,moonshot,3.0,15.0,3.0,15.0,2026-08-21,AGREE
+2026-09-05,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,0.95,4.0,2026-08-28,AGREE
+2026-09-05,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,0.3,1.2,0.3,1.2,2026-06-10,AGREE
+2026-09-05,xAI,Grok 4.6 (<=500K context),xai/grok-4.6,xai,2.0,6.0,2.0,6.0,2026-08-13,AGREE
+2026-09-04,OpenAI,GPT-5.6 Sol (<272K context),gpt-5.6-sol,openai,5.0,30.0,4.0,20.0,2026-08-22,DISAGREE
+2026-09-04,OpenAI,GPT-5.6 Terra (<272K context),gpt-5.6-terra,openai,2.0,12.0,2.0,12.0,2026-07-31,AGREE
+2026-09-04,OpenAI,GPT-5.6 Luna (<272K context),gpt-5.6-luna,openai,0.2,1.2,0.2,1.2,2026-07-31,AGREE
+2026-09-04,Google,Gemini 3.7 Flash,gemini/gemini-3.7-flash,gemini,0.75,3.75,0.75,3.75,2026-08-13,AGREE
+2026-09-04,Anthropic,Claude Fable 5,claude-fable-5,anthropic,10.0,50.0,10.0,50.0,2026-06-10,AGREE
+2026-09-04,Anthropic,Claude Mythos 5 (limited access),claude-mythos-5,anthropic,10.0,50.0,10.0,50.0,2026-08-10,AGREE
+2026-09-04,Anthropic,Claude Opus 5,claude-opus-5,anthropic,5.0,25.0,5.0,25.0,2026-07-31,AGREE
+2026-09-04,Anthropic,Claude Sonnet 5,claude-sonnet-5,anthropic,2.0,10.0,2.0,10.0,2026-07-02,AGREE
+2026-09-04,DeepSeek,DeepSeek V4 Flash 0731,deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-09-04,DeepSeek,DeepSeek V4 Flash 0731,deepseek/deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-09-04,DeepSeek,DeepSeek V4 Pro 0813,deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-09-04,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-09-04,Qwen / Alibaba Cloud,qwen3.7-max,dashscope/qwen3.7-max,dashscope,1.25,3.75,2.5,7.5,2026-07-31,DISAGREE
+2026-09-04,Qwen / Alibaba Cloud,qwen3.7-max,qwen_ai_platform/qwen3.7-max,qwen_ai_platform,1.25,3.75,2.5,7.5,2026-09-01,DISAGREE
+2026-09-04,Qwen / Alibaba Cloud,qwen3.7-max,qwencloud/qwen3.7-max,qwencloud,1.25,3.75,2.5,7.5,2026-09-01,DISAGREE
+2026-09-04,Together AI / Z AI,GLM-5.2,zai/glm-5.2,zai,1.4,4.4,1.4,4.4,2026-09-01,AGREE
+2026-09-04,Moonshot AI / Kimi,kimi-k3,moonshot/kimi-k3,moonshot,3.0,15.0,3.0,15.0,2026-08-21,AGREE
+2026-09-04,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,0.95,4.0,2026-08-28,AGREE
+2026-09-04,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,0.3,1.2,0.3,1.2,2026-06-10,AGREE
+2026-09-04,xAI,Grok 4.6 (<=500K context),xai/grok-4.6,xai,2.0,6.0,2.0,6.0,2026-08-13,AGREE
+2026-09-03,OpenAI,GPT-5.6 Sol (<272K context),gpt-5.6-sol,openai,5.0,30.0,4.0,20.0,2026-08-22,DISAGREE
+2026-09-03,OpenAI,GPT-5.6 Terra (<272K context),gpt-5.6-terra,openai,2.0,12.0,2.0,12.0,2026-07-31,AGREE
+2026-09-03,OpenAI,GPT-5.6 Luna (<272K context),gpt-5.6-luna,openai,0.2,1.2,0.2,1.2,2026-07-31,AGREE
+2026-09-03,Google,Gemini 3.7 Flash,gemini/gemini-3.7-flash,gemini,0.75,3.75,0.75,3.75,2026-08-13,AGREE
+2026-09-03,Anthropic,Claude Fable 5,claude-fable-5,anthropic,10.0,50.0,10.0,50.0,2026-06-10,AGREE
+2026-09-03,Anthropic,Claude Mythos 5 (limited access),claude-mythos-5,anthropic,10.0,50.0,10.0,50.0,2026-08-10,AGREE
+2026-09-03,Anthropic,Claude Opus 5,claude-opus-5,anthropic,5.0,25.0,5.0,25.0,2026-07-31,AGREE
+2026-09-03,Anthropic,Claude Sonnet 5,claude-sonnet-5,anthropic,2.0,10.0,2.0,10.0,2026-07-02,AGREE
+2026-09-03,DeepSeek,DeepSeek V4 Flash 0731,deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-09-03,DeepSeek,DeepSeek V4 Flash 0731,deepseek/deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-09-03,DeepSeek,DeepSeek V4 Pro 0813,deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-09-03,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-09-03,Qwen / Alibaba Cloud,qwen3.7-max,dashscope/qwen3.7-max,dashscope,1.25,3.75,2.5,7.5,2026-07-31,DISAGREE
+2026-09-03,Qwen / Alibaba Cloud,qwen3.7-max,qwen_ai_platform/qwen3.7-max,qwen_ai_platform,1.25,3.75,2.5,7.5,2026-09-01,DISAGREE
+2026-09-03,Qwen / Alibaba Cloud,qwen3.7-max,qwencloud/qwen3.7-max,qwencloud,1.25,3.75,2.5,7.5,2026-09-01,DISAGREE
+2026-09-03,Together AI / Z AI,GLM-5.2,zai/glm-5.2,zai,1.4,4.4,1.4,4.4,2026-09-01,AGREE
+2026-09-03,Moonshot AI / Kimi,kimi-k3,moonshot/kimi-k3,moonshot,3.0,15.0,3.0,15.0,2026-08-21,AGREE
+2026-09-03,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,0.95,4.0,2026-08-28,AGREE
+2026-09-03,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,0.3,1.2,0.3,1.2,2026-06-10,AGREE
+2026-09-03,xAI,Grok 4.6 (<=500K context),xai/grok-4.6,xai,2.0,6.0,2.0,6.0,2026-08-13,AGREE
+2026-09-02,OpenAI,GPT-5.6 Sol (<272K context),gpt-5.6-sol,openai,5.0,30.0,4.0,20.0,2026-08-22,DISAGREE
+2026-09-02,OpenAI,GPT-5.6 Terra (<272K context),gpt-5.6-terra,openai,2.0,12.0,2.0,12.0,2026-07-31,AGREE
+2026-09-02,OpenAI,GPT-5.6 Luna (<272K context),gpt-5.6-luna,openai,0.2,1.2,0.2,1.2,2026-07-31,AGREE
+2026-09-02,Google,Gemini 3.7 Flash,gemini/gemini-3.7-flash,gemini,0.75,3.75,0.75,3.75,2026-08-13,AGREE
+2026-09-02,Anthropic,Claude Fable 5,claude-fable-5,anthropic,10.0,50.0,10.0,50.0,2026-06-10,AGREE
+2026-09-02,Anthropic,Claude Mythos 5 (limited access),claude-mythos-5,anthropic,10.0,50.0,10.0,50.0,2026-08-10,AGREE
+2026-09-02,Anthropic,Claude Opus 5,claude-opus-5,anthropic,5.0,25.0,5.0,25.0,2026-07-31,AGREE
+2026-09-02,Anthropic,Claude Sonnet 5,claude-sonnet-5,anthropic,2.0,10.0,2.0,10.0,2026-07-02,AGREE
+2026-09-02,DeepSeek,DeepSeek V4 Flash 0731,deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-09-02,DeepSeek,DeepSeek V4 Flash 0731,deepseek/deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-09-02,DeepSeek,DeepSeek V4 Pro 0813,deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-09-02,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-09-02,Qwen / Alibaba Cloud,qwen3.7-max,dashscope/qwen3.7-max,dashscope,1.25,3.75,2.5,7.5,2026-07-31,DISAGREE
+2026-09-02,Qwen / Alibaba Cloud,qwen3.7-max,qwen_ai_platform/qwen3.7-max,qwen_ai_platform,1.25,3.75,2.5,7.5,2026-09-01,DISAGREE
+2026-09-02,Qwen / Alibaba Cloud,qwen3.7-max,qwencloud/qwen3.7-max,qwencloud,1.25,3.75,2.5,7.5,2026-09-01,DISAGREE
+2026-09-02,Together AI / Z AI,GLM-5.2,zai/glm-5.2,zai,1.4,4.4,1.4,4.4,2026-09-01,AGREE
+2026-09-02,Moonshot AI / Kimi,kimi-k3,moonshot/kimi-k3,moonshot,3.0,15.0,3.0,15.0,2026-08-21,AGREE
+2026-09-02,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,0.95,4.0,2026-08-28,AGREE
+2026-09-02,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,0.3,1.2,0.3,1.2,2026-06-10,AGREE
+2026-09-02,xAI,Grok 4.6 (<=500K context),xai/grok-4.6,xai,2.0,6.0,2.0,6.0,2026-08-13,AGREE
+2026-09-01,OpenAI,GPT-5.6 Sol (<272K context),gpt-5.6-sol,openai,5.0,30.0,4.0,20.0,2026-08-22,DISAGREE
+2026-09-01,OpenAI,GPT-5.6 Terra (<272K context),gpt-5.6-terra,openai,2.0,12.0,2.0,12.0,2026-07-31,AGREE
+2026-09-01,OpenAI,GPT-5.6 Luna (<272K context),gpt-5.6-luna,openai,0.2,1.2,0.2,1.2,2026-07-31,AGREE
+2026-09-01,Google,Gemini 3.7 Flash,gemini/gemini-3.7-flash,gemini,0.75,3.75,0.75,3.75,2026-08-13,AGREE
+2026-09-01,Anthropic,Claude Fable 5,claude-fable-5,anthropic,10.0,50.0,10.0,50.0,2026-06-10,AGREE
+2026-09-01,Anthropic,Claude Mythos 5 (limited access),claude-mythos-5,anthropic,10.0,50.0,10.0,50.0,2026-08-10,AGREE
+2026-09-01,Anthropic,Claude Opus 5,claude-opus-5,anthropic,5.0,25.0,5.0,25.0,2026-07-31,AGREE
+2026-09-01,Anthropic,Claude Sonnet 5,claude-sonnet-5,anthropic,2.0,10.0,2.0,10.0,2026-07-02,AGREE
+2026-09-01,DeepSeek,DeepSeek V4 Flash 0731,deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-09-01,DeepSeek,DeepSeek V4 Flash 0731,deepseek/deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-09-01,DeepSeek,DeepSeek V4 Pro 0813,deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-09-01,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-09-01,Qwen / Alibaba Cloud,qwen3.7-max,dashscope/qwen3.7-max,dashscope,1.25,3.75,2.5,7.5,2026-07-31,DISAGREE
+2026-09-01,Qwen / Alibaba Cloud,qwen3.7-max,qwen_ai_platform/qwen3.7-max,qwen_ai_platform,1.25,3.75,2.5,7.5,2026-09-01,DISAGREE
+2026-09-01,Qwen / Alibaba Cloud,qwen3.7-max,qwencloud/qwen3.7-max,qwencloud,1.25,3.75,2.5,7.5,2026-09-01,DISAGREE
+2026-09-01,Together AI / Z AI,GLM-5.2,zai/glm-5.2,zai,1.4,4.4,1.4,4.4,2026-09-01,AGREE
+2026-09-01,Moonshot AI / Kimi,kimi-k3,moonshot/kimi-k3,moonshot,3.0,15.0,3.0,15.0,2026-08-21,AGREE
+2026-09-01,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,0.95,4.0,2026-08-28,AGREE
+2026-09-01,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,0.3,1.2,0.3,1.2,2026-06-10,AGREE
+2026-09-01,xAI,Grok 4.6 (<=500K context),xai/grok-4.6,xai,2.0,6.0,2.0,6.0,2026-08-13,AGREE
+2026-08-31,OpenAI,GPT-5.6 Sol (<272K context),gpt-5.6-sol,openai,5.0,30.0,4.0,20.0,2026-08-22,DISAGREE
+2026-08-31,OpenAI,GPT-5.6 Terra (<272K context),gpt-5.6-terra,openai,2.0,12.0,2.0,12.0,2026-07-31,AGREE
+2026-08-31,OpenAI,GPT-5.6 Luna (<272K context),gpt-5.6-luna,openai,0.2,1.2,0.2,1.2,2026-07-31,AGREE
+2026-08-31,Google,Gemini 3.7 Flash,gemini/gemini-3.7-flash,gemini,0.75,3.75,0.75,3.75,2026-08-13,AGREE
+2026-08-31,Anthropic,Claude Fable 5,claude-fable-5,anthropic,10.0,50.0,10.0,50.0,2026-06-10,AGREE
+2026-08-31,Anthropic,Claude Mythos 5 (limited access),claude-mythos-5,anthropic,10.0,50.0,10.0,50.0,2026-08-10,AGREE
+2026-08-31,Anthropic,Claude Opus 5,claude-opus-5,anthropic,5.0,25.0,5.0,25.0,2026-07-31,AGREE
+2026-08-31,Anthropic,Claude Sonnet 5,claude-sonnet-5,anthropic,2.0,10.0,2.0,10.0,2026-07-02,AGREE
+2026-08-31,DeepSeek,DeepSeek V4 Flash 0731,deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-08-31,DeepSeek,DeepSeek V4 Flash 0731,deepseek/deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-08-31,DeepSeek,DeepSeek V4 Pro 0813,deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-08-31,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-08-31,Qwen / Alibaba Cloud,qwen3.7-max,dashscope/qwen3.7-max,dashscope,1.25,3.75,2.5,7.5,2026-07-31,DISAGREE
+2026-08-31,Qwen / Alibaba Cloud,qwen3.7-max,qwen_ai_platform/qwen3.7-max,qwen_ai_platform,1.25,3.75,,,,NO_LITELLM_PRICE_YET
+2026-08-31,Qwen / Alibaba Cloud,qwen3.7-max,qwencloud/qwen3.7-max,qwencloud,1.25,3.75,,,,NO_LITELLM_PRICE_YET
+2026-08-31,Together AI / Z AI,GLM-5.2,zai/glm-5.2,zai,1.4,4.4,,,,NO_LITELLM_PRICE_YET
+2026-08-31,Moonshot AI / Kimi,kimi-k3,moonshot/kimi-k3,moonshot,3.0,15.0,3.0,15.0,2026-08-21,AGREE
+2026-08-31,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,0.95,4.0,2026-08-28,AGREE
+2026-08-31,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,0.3,1.2,0.3,1.2,2026-06-10,AGREE
+2026-08-31,xAI,Grok 4.6 (<=500K context),xai/grok-4.6,xai,2.0,6.0,2.0,6.0,2026-08-13,AGREE
+2026-08-30,OpenAI,GPT-5.6 Sol (<272K context),gpt-5.6-sol,openai,5.0,30.0,4.0,20.0,2026-08-22,DISAGREE
+2026-08-30,OpenAI,GPT-5.6 Terra (<272K context),gpt-5.6-terra,openai,2.0,12.0,2.0,12.0,2026-07-31,AGREE
+2026-08-30,OpenAI,GPT-5.6 Luna (<272K context),gpt-5.6-luna,openai,0.2,1.2,0.2,1.2,2026-07-31,AGREE
+2026-08-30,Google,Gemini 3.7 Flash,gemini/gemini-3.7-flash,gemini,0.75,3.75,0.75,3.75,2026-08-13,AGREE
+2026-08-30,Anthropic,Claude Fable 5,claude-fable-5,anthropic,10.0,50.0,10.0,50.0,2026-06-10,AGREE
+2026-08-30,Anthropic,Claude Mythos 5 (limited access),claude-mythos-5,anthropic,10.0,50.0,10.0,50.0,2026-08-10,AGREE
+2026-08-30,Anthropic,Claude Opus 5,claude-opus-5,anthropic,5.0,25.0,5.0,25.0,2026-07-31,AGREE
+2026-08-30,Anthropic,Claude Sonnet 5,claude-sonnet-5,anthropic,2.0,10.0,2.0,10.0,2026-07-02,AGREE
+2026-08-30,DeepSeek,DeepSeek V4 Flash 0731,deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-08-30,DeepSeek,DeepSeek V4 Flash 0731,deepseek/deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-08-30,DeepSeek,DeepSeek V4 Pro 0813,deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-08-30,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-08-30,Qwen / Alibaba Cloud,qwen3.7-max,dashscope/qwen3.7-max,dashscope,1.25,3.75,2.5,7.5,2026-07-31,DISAGREE
+2026-08-30,Qwen / Alibaba Cloud,qwen3.7-max,qwen_ai_platform/qwen3.7-max,qwen_ai_platform,1.25,3.75,,,,NO_LITELLM_PRICE_YET
+2026-08-30,Qwen / Alibaba Cloud,qwen3.7-max,qwencloud/qwen3.7-max,qwencloud,1.25,3.75,,,,NO_LITELLM_PRICE_YET
+2026-08-30,Together AI / Z AI,GLM-5.2,zai/glm-5.2,zai,1.4,4.4,,,,NO_LITELLM_PRICE_YET
+2026-08-30,Moonshot AI / Kimi,kimi-k3,moonshot/kimi-k3,moonshot,3.0,15.0,3.0,15.0,2026-08-21,AGREE
+2026-08-30,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,0.95,4.0,2026-08-28,AGREE
+2026-08-30,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,0.3,1.2,0.3,1.2,2026-06-10,AGREE
+2026-08-30,xAI,Grok 4.6 (<=500K context),xai/grok-4.6,xai,2.0,6.0,2.0,6.0,2026-08-13,AGREE
+2026-08-29,OpenAI,GPT-5.6 Sol (<272K context),gpt-5.6-sol,openai,5.0,30.0,4.0,20.0,2026-08-22,DISAGREE
+2026-08-29,OpenAI,GPT-5.6 Terra (<272K context),gpt-5.6-terra,openai,2.0,12.0,2.0,12.0,2026-07-31,AGREE
+2026-08-29,OpenAI,GPT-5.6 Luna (<272K context),gpt-5.6-luna,openai,0.2,1.2,0.2,1.2,2026-07-31,AGREE
+2026-08-29,Google,Gemini 3.7 Flash,gemini/gemini-3.7-flash,gemini,0.75,3.75,0.75,3.75,2026-08-13,AGREE
+2026-08-29,Anthropic,Claude Fable 5,claude-fable-5,anthropic,10.0,50.0,10.0,50.0,2026-06-10,AGREE
+2026-08-29,Anthropic,Claude Mythos 5 (limited access),claude-mythos-5,anthropic,10.0,50.0,10.0,50.0,2026-08-10,AGREE
+2026-08-29,Anthropic,Claude Opus 5,claude-opus-5,anthropic,5.0,25.0,5.0,25.0,2026-07-31,AGREE
+2026-08-29,Anthropic,Claude Sonnet 5,claude-sonnet-5,anthropic,2.0,10.0,2.0,10.0,2026-07-02,AGREE
+2026-08-29,DeepSeek,DeepSeek V4 Flash 0731,deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-08-29,DeepSeek,DeepSeek V4 Flash 0731,deepseek/deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-08-29,DeepSeek,DeepSeek V4 Pro 0813,deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-08-29,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-08-29,Qwen / Alibaba Cloud,qwen3.7-max,dashscope/qwen3.7-max,dashscope,1.25,3.75,2.5,7.5,2026-07-31,DISAGREE
+2026-08-29,Qwen / Alibaba Cloud,qwen3.7-max,qwen_ai_platform/qwen3.7-max,qwen_ai_platform,1.25,3.75,,,,NO_LITELLM_PRICE_YET
+2026-08-29,Qwen / Alibaba Cloud,qwen3.7-max,qwencloud/qwen3.7-max,qwencloud,1.25,3.75,,,,NO_LITELLM_PRICE_YET
+2026-08-29,Together AI / Z AI,GLM-5.2,zai/glm-5.2,zai,1.4,4.4,,,,NO_LITELLM_PRICE_YET
+2026-08-29,Moonshot AI / Kimi,kimi-k3,moonshot/kimi-k3,moonshot,3.0,15.0,3.0,15.0,2026-08-21,AGREE
+2026-08-29,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,0.95,4.0,2026-08-28,AGREE
+2026-08-29,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,0.3,1.2,0.3,1.2,2026-06-10,AGREE
+2026-08-29,xAI,Grok 4.6 (<=500K context),xai/grok-4.6,xai,2.0,6.0,2.0,6.0,2026-08-13,AGREE
+2026-08-28,OpenAI,GPT-5.6 Sol (<272K context),gpt-5.6-sol,openai,5.0,30.0,4.0,20.0,2026-08-22,DISAGREE
+2026-08-28,OpenAI,GPT-5.6 Terra (<272K context),gpt-5.6-terra,openai,2.0,12.0,2.0,12.0,2026-07-31,AGREE
+2026-08-28,OpenAI,GPT-5.6 Luna (<272K context),gpt-5.6-luna,openai,0.2,1.2,0.2,1.2,2026-07-31,AGREE
+2026-08-28,Google,Gemini 3.7 Flash,gemini/gemini-3.7-flash,gemini,0.75,3.75,0.75,3.75,2026-08-13,AGREE
+2026-08-28,Anthropic,Claude Fable 5,claude-fable-5,anthropic,10.0,50.0,10.0,50.0,2026-06-10,AGREE
+2026-08-28,Anthropic,Claude Mythos 5 (limited access),claude-mythos-5,anthropic,10.0,50.0,10.0,50.0,2026-08-10,AGREE
+2026-08-28,Anthropic,Claude Opus 5,claude-opus-5,anthropic,5.0,25.0,5.0,25.0,2026-07-31,AGREE
+2026-08-28,Anthropic,Claude Sonnet 5,claude-sonnet-5,anthropic,2.0,10.0,2.0,10.0,2026-07-02,AGREE
+2026-08-28,DeepSeek,DeepSeek V4 Flash 0731,deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-08-28,DeepSeek,DeepSeek V4 Flash 0731,deepseek/deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-08-28,DeepSeek,DeepSeek V4 Pro 0813,deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-08-28,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-08-28,Qwen / Alibaba Cloud,qwen3.7-max,dashscope/qwen3.7-max,dashscope,1.25,3.75,2.5,7.5,2026-07-31,DISAGREE
+2026-08-28,Qwen / Alibaba Cloud,qwen3.7-max,qwen_ai_platform/qwen3.7-max,qwen_ai_platform,1.25,3.75,,,,NO_LITELLM_PRICE_YET
+2026-08-28,Qwen / Alibaba Cloud,qwen3.7-max,qwencloud/qwen3.7-max,qwencloud,1.25,3.75,,,,NO_LITELLM_PRICE_YET
+2026-08-28,Together AI / Z AI,GLM-5.2,zai/glm-5.2,zai,1.4,4.4,,,,NO_LITELLM_PRICE_YET
+2026-08-28,Moonshot AI / Kimi,kimi-k3,moonshot/kimi-k3,moonshot,3.0,15.0,3.0,15.0,2026-08-21,AGREE
+2026-08-28,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,0.95,4.0,2026-08-28,AGREE
+2026-08-28,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,0.3,1.2,0.3,1.2,2026-06-10,AGREE
+2026-08-28,xAI,Grok 4.6 (<=500K context),xai/grok-4.6,xai,2.0,6.0,2.0,6.0,2026-08-13,AGREE
+2026-08-27,OpenAI,GPT-5.6 Sol (<272K context),gpt-5.6-sol,openai,5.0,30.0,4.0,20.0,2026-08-22,DISAGREE
+2026-08-27,OpenAI,GPT-5.6 Terra (<272K context),gpt-5.6-terra,openai,2.0,12.0,2.0,12.0,2026-07-31,AGREE
+2026-08-27,OpenAI,GPT-5.6 Luna (<272K context),gpt-5.6-luna,openai,0.2,1.2,0.2,1.2,2026-07-31,AGREE
+2026-08-27,Google,Gemini 3.7 Flash,gemini/gemini-3.7-flash,gemini,0.75,3.75,0.75,3.75,2026-08-13,AGREE
+2026-08-27,Anthropic,Claude Fable 5,claude-fable-5,anthropic,10.0,50.0,10.0,50.0,2026-06-10,AGREE
+2026-08-27,Anthropic,Claude Mythos 5 (limited access),claude-mythos-5,anthropic,10.0,50.0,10.0,50.0,2026-08-10,AGREE
+2026-08-27,Anthropic,Claude Opus 5,claude-opus-5,anthropic,5.0,25.0,5.0,25.0,2026-07-31,AGREE
+2026-08-27,Anthropic,Claude Sonnet 5,claude-sonnet-5,anthropic,2.0,10.0,2.0,10.0,2026-07-02,AGREE
+2026-08-27,DeepSeek,DeepSeek V4 Flash 0731,deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-08-27,DeepSeek,DeepSeek V4 Flash 0731,deepseek/deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-08-27,DeepSeek,DeepSeek V4 Pro 0813,deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-08-27,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-08-27,Qwen / Alibaba Cloud,qwen3.7-max,dashscope/qwen3.7-max,dashscope,1.25,3.75,2.5,7.5,2026-07-31,DISAGREE
+2026-08-27,Qwen / Alibaba Cloud,qwen3.7-max,qwen_ai_platform/qwen3.7-max,qwen_ai_platform,1.25,3.75,,,,NO_LITELLM_PRICE_YET
+2026-08-27,Qwen / Alibaba Cloud,qwen3.7-max,qwencloud/qwen3.7-max,qwencloud,1.25,3.75,,,,NO_LITELLM_PRICE_YET
+2026-08-27,Together AI / Z AI,GLM-5.2,zai/glm-5.2,zai,1.4,4.4,,,,NO_LITELLM_PRICE_YET
+2026-08-27,Moonshot AI / Kimi,kimi-k3,moonshot/kimi-k3,moonshot,3.0,15.0,3.0,15.0,2026-08-21,AGREE
+2026-08-27,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,,,,NO_LITELLM_PRICE_YET
+2026-08-27,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,0.3,1.2,0.3,1.2,2026-06-10,AGREE
+2026-08-27,xAI,Grok 4.6 (<=500K context),xai/grok-4.6,xai,2.0,6.0,2.0,6.0,2026-08-13,AGREE
+2026-08-26,OpenAI,GPT-5.6 Sol (<272K context),gpt-5.6-sol,openai,5.0,30.0,4.0,20.0,2026-08-22,DISAGREE
+2026-08-26,OpenAI,GPT-5.6 Terra (<272K context),gpt-5.6-terra,openai,2.0,12.0,2.0,12.0,2026-07-31,AGREE
+2026-08-26,OpenAI,GPT-5.6 Luna (<272K context),gpt-5.6-luna,openai,0.2,1.2,0.2,1.2,2026-07-31,AGREE
+2026-08-26,Google,Gemini 3.7 Flash,gemini/gemini-3.7-flash,gemini,0.75,3.75,0.75,3.75,2026-08-13,AGREE
+2026-08-26,Anthropic,Claude Fable 5,claude-fable-5,anthropic,10.0,50.0,10.0,50.0,2026-06-10,AGREE
+2026-08-26,Anthropic,Claude Mythos 5 (limited access),claude-mythos-5,anthropic,10.0,50.0,10.0,50.0,2026-08-10,AGREE
+2026-08-26,Anthropic,Claude Opus 5,claude-opus-5,anthropic,5.0,25.0,5.0,25.0,2026-07-31,AGREE
+2026-08-26,Anthropic,Claude Sonnet 5,claude-sonnet-5,anthropic,2.0,10.0,2.0,10.0,2026-07-02,AGREE
+2026-08-26,DeepSeek,DeepSeek V4 Flash 0731,deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-08-26,DeepSeek,DeepSeek V4 Flash 0731,deepseek/deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-08-26,DeepSeek,DeepSeek V4 Pro 0813,deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-08-26,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-08-26,Qwen / Alibaba Cloud,qwen3.7-max,dashscope/qwen3.7-max,dashscope,1.25,3.75,2.5,7.5,2026-07-31,DISAGREE
+2026-08-26,Qwen / Alibaba Cloud,qwen3.7-max,qwen_ai_platform/qwen3.7-max,qwen_ai_platform,1.25,3.75,,,,NO_LITELLM_PRICE_YET
+2026-08-26,Qwen / Alibaba Cloud,qwen3.7-max,qwencloud/qwen3.7-max,qwencloud,1.25,3.75,,,,NO_LITELLM_PRICE_YET
+2026-08-26,Together AI / Z AI,GLM-5.2,zai/glm-5.2,zai,1.4,4.4,,,,NO_LITELLM_PRICE_YET
+2026-08-26,Moonshot AI / Kimi,kimi-k3,moonshot/kimi-k3,moonshot,3.0,15.0,3.0,15.0,2026-08-21,AGREE
+2026-08-26,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,,,,NO_LITELLM_PRICE_YET
+2026-08-26,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,0.3,1.2,0.3,1.2,2026-06-10,AGREE
+2026-08-26,xAI,Grok 4.6 (<=500K context),xai/grok-4.6,xai,2.0,6.0,2.0,6.0,2026-08-13,AGREE
+2026-08-25,OpenAI,GPT-5.6 Sol (<272K context),gpt-5.6-sol,openai,5.0,30.0,4.0,20.0,2026-08-22,DISAGREE
+2026-08-25,OpenAI,GPT-5.6 Terra (<272K context),gpt-5.6-terra,openai,2.0,12.0,2.0,12.0,2026-07-31,AGREE
+2026-08-25,OpenAI,GPT-5.6 Luna (<272K context),gpt-5.6-luna,openai,0.2,1.2,0.2,1.2,2026-07-31,AGREE
+2026-08-25,Google,Gemini 3.7 Flash,gemini/gemini-3.7-flash,gemini,0.75,3.75,0.75,3.75,2026-08-13,AGREE
+2026-08-25,Anthropic,Claude Fable 5,claude-fable-5,anthropic,10.0,50.0,10.0,50.0,2026-06-10,AGREE
+2026-08-25,Anthropic,Claude Mythos 5 (limited access),claude-mythos-5,anthropic,10.0,50.0,10.0,50.0,2026-08-10,AGREE
+2026-08-25,Anthropic,Claude Opus 5,claude-opus-5,anthropic,5.0,25.0,5.0,25.0,2026-07-31,AGREE
+2026-08-25,Anthropic,Claude Sonnet 5,claude-sonnet-5,anthropic,2.0,10.0,2.0,10.0,2026-07-02,AGREE
+2026-08-25,DeepSeek,DeepSeek V4 Flash 0731,deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-08-25,DeepSeek,DeepSeek V4 Flash 0731,deepseek/deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-08-25,DeepSeek,DeepSeek V4 Pro 0813,deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-08-25,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-08-25,Qwen / Alibaba Cloud,qwen3.7-max,dashscope/qwen3.7-max,dashscope,1.25,3.75,2.5,7.5,2026-07-31,DISAGREE
+2026-08-25,Qwen / Alibaba Cloud,qwen3.7-max,qwen_ai_platform/qwen3.7-max,qwen_ai_platform,1.25,3.75,,,,NO_LITELLM_PRICE_YET
+2026-08-25,Qwen / Alibaba Cloud,qwen3.7-max,qwencloud/qwen3.7-max,qwencloud,1.25,3.75,,,,NO_LITELLM_PRICE_YET
+2026-08-25,Together AI / Z AI,GLM-5.2,zai/glm-5.2,zai,1.4,4.4,,,,NO_LITELLM_PRICE_YET
+2026-08-25,Moonshot AI / Kimi,kimi-k3,moonshot/kimi-k3,moonshot,3.0,15.0,3.0,15.0,2026-08-21,AGREE
+2026-08-25,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,,,,NO_LITELLM_PRICE_YET
+2026-08-25,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,0.3,1.2,0.3,1.2,2026-06-10,AGREE
+2026-08-25,xAI,Grok 4.6 (<=500K context),xai/grok-4.6,xai,2.0,6.0,2.0,6.0,2026-08-13,AGREE
+2026-08-24,OpenAI,GPT-5.6 Sol (<272K context),gpt-5.6-sol,openai,5.0,30.0,4.0,20.0,2026-08-22,DISAGREE
+2026-08-24,OpenAI,GPT-5.6 Terra (<272K context),gpt-5.6-terra,openai,2.0,12.0,2.0,12.0,2026-07-31,AGREE
+2026-08-24,OpenAI,GPT-5.6 Luna (<272K context),gpt-5.6-luna,openai,0.2,1.2,0.2,1.2,2026-07-31,AGREE
+2026-08-24,Google,Gemini 3.7 Flash,gemini/gemini-3.7-flash,gemini,0.75,3.75,0.75,3.75,2026-08-13,AGREE
+2026-08-24,Anthropic,Claude Fable 5,claude-fable-5,anthropic,10.0,50.0,10.0,50.0,2026-06-10,AGREE
+2026-08-24,Anthropic,Claude Mythos 5 (limited access),claude-mythos-5,anthropic,10.0,50.0,10.0,50.0,2026-08-10,AGREE
+2026-08-24,Anthropic,Claude Opus 5,claude-opus-5,anthropic,5.0,25.0,5.0,25.0,2026-07-31,AGREE
+2026-08-24,Anthropic,Claude Sonnet 5,claude-sonnet-5,anthropic,2.0,10.0,2.0,10.0,2026-07-02,AGREE
+2026-08-24,DeepSeek,DeepSeek V4 Flash 0731,deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-08-24,DeepSeek,DeepSeek V4 Flash 0731,deepseek/deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-08-24,DeepSeek,DeepSeek V4 Pro 0813,deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-08-24,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-08-24,Qwen / Alibaba Cloud,qwen3.7-max,dashscope/qwen3.7-max,dashscope,1.25,3.75,2.5,7.5,2026-07-31,DISAGREE
+2026-08-24,Qwen / Alibaba Cloud,qwen3.7-max,qwen_ai_platform/qwen3.7-max,qwen_ai_platform,1.25,3.75,,,,NO_LITELLM_PRICE_YET
+2026-08-24,Qwen / Alibaba Cloud,qwen3.7-max,qwencloud/qwen3.7-max,qwencloud,1.25,3.75,,,,NO_LITELLM_PRICE_YET
+2026-08-24,Together AI / Z AI,GLM-5.2,zai/glm-5.2,zai,1.4,4.4,,,,NO_LITELLM_PRICE_YET
+2026-08-24,Moonshot AI / Kimi,kimi-k3,moonshot/kimi-k3,moonshot,3.0,15.0,3.0,15.0,2026-08-21,AGREE
+2026-08-24,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,,,,NO_LITELLM_PRICE_YET
+2026-08-24,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,0.3,1.2,0.3,1.2,2026-06-10,AGREE
+2026-08-24,xAI,Grok 4.6 (<=500K context),xai/grok-4.6,xai,2.0,6.0,2.0,6.0,2026-08-13,AGREE
+2026-08-23,OpenAI,GPT-5.6 Sol (<272K context),gpt-5.6-sol,openai,5.0,30.0,4.0,20.0,2026-08-22,DISAGREE
+2026-08-23,OpenAI,GPT-5.6 Terra (<272K context),gpt-5.6-terra,openai,2.0,12.0,2.0,12.0,2026-07-31,AGREE
+2026-08-23,OpenAI,GPT-5.6 Luna (<272K context),gpt-5.6-luna,openai,0.2,1.2,0.2,1.2,2026-07-31,AGREE
+2026-08-23,Google,Gemini 3.7 Flash,gemini/gemini-3.7-flash,gemini,0.75,3.75,0.75,3.75,2026-08-13,AGREE
+2026-08-23,Anthropic,Claude Fable 5,claude-fable-5,anthropic,10.0,50.0,10.0,50.0,2026-06-10,AGREE
+2026-08-23,Anthropic,Claude Mythos 5 (limited access),claude-mythos-5,anthropic,10.0,50.0,10.0,50.0,2026-08-10,AGREE
+2026-08-23,Anthropic,Claude Opus 5,claude-opus-5,anthropic,5.0,25.0,5.0,25.0,2026-07-31,AGREE
+2026-08-23,Anthropic,Claude Sonnet 5,claude-sonnet-5,anthropic,2.0,10.0,2.0,10.0,2026-07-02,AGREE
+2026-08-23,DeepSeek,DeepSeek V4 Flash 0731,deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-08-23,DeepSeek,DeepSeek V4 Flash 0731,deepseek/deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-08-23,DeepSeek,DeepSeek V4 Pro 0813,deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-08-23,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-08-23,Qwen / Alibaba Cloud,qwen3.7-max,dashscope/qwen3.7-max,dashscope,1.25,3.75,2.5,7.5,2026-07-31,DISAGREE
+2026-08-23,Qwen / Alibaba Cloud,qwen3.7-max,qwen_ai_platform/qwen3.7-max,qwen_ai_platform,1.25,3.75,,,,NO_LITELLM_PRICE_YET
+2026-08-23,Qwen / Alibaba Cloud,qwen3.7-max,qwencloud/qwen3.7-max,qwencloud,1.25,3.75,,,,NO_LITELLM_PRICE_YET
+2026-08-23,Together AI / Z AI,GLM-5.2,zai/glm-5.2,zai,1.4,4.4,,,,NO_LITELLM_PRICE_YET
+2026-08-23,Moonshot AI / Kimi,kimi-k3,moonshot/kimi-k3,moonshot,3.0,15.0,3.0,15.0,2026-08-21,AGREE
+2026-08-23,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,,,,NO_LITELLM_PRICE_YET
+2026-08-23,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,0.3,1.2,0.3,1.2,2026-06-10,AGREE
+2026-08-23,xAI,Grok 4.6 (<=500K context),xai/grok-4.6,xai,2.0,6.0,2.0,6.0,2026-08-13,AGREE
+2026-08-22,OpenAI,GPT-5.6 Sol (<272K context),gpt-5.6-sol,openai,5.0,30.0,4.0,20.0,2026-08-22,DISAGREE
+2026-08-22,OpenAI,GPT-5.6 Terra (<272K context),gpt-5.6-terra,openai,2.0,12.0,2.0,12.0,2026-07-31,AGREE
+2026-08-22,OpenAI,GPT-5.6 Luna (<272K context),gpt-5.6-luna,openai,0.2,1.2,0.2,1.2,2026-07-31,AGREE
+2026-08-22,Google,Gemini 3.7 Flash,gemini/gemini-3.7-flash,gemini,0.75,3.75,0.75,3.75,2026-08-13,AGREE
+2026-08-22,Anthropic,Claude Fable 5,claude-fable-5,anthropic,10.0,50.0,10.0,50.0,2026-06-10,AGREE
+2026-08-22,Anthropic,Claude Mythos 5 (limited access),claude-mythos-5,anthropic,10.0,50.0,10.0,50.0,2026-08-10,AGREE
+2026-08-22,Anthropic,Claude Opus 5,claude-opus-5,anthropic,5.0,25.0,5.0,25.0,2026-07-31,AGREE
+2026-08-22,Anthropic,Claude Sonnet 5,claude-sonnet-5,anthropic,2.0,10.0,2.0,10.0,2026-07-02,AGREE
+2026-08-22,DeepSeek,DeepSeek V4 Flash 0731,deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-08-22,DeepSeek,DeepSeek V4 Flash 0731,deepseek/deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-08-22,DeepSeek,DeepSeek V4 Pro 0813,deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-08-22,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-08-22,Qwen / Alibaba Cloud,qwen3.7-max,dashscope/qwen3.7-max,dashscope,1.25,3.75,2.5,7.5,2026-07-31,DISAGREE
+2026-08-22,Qwen / Alibaba Cloud,qwen3.7-max,qwen_ai_platform/qwen3.7-max,qwen_ai_platform,1.25,3.75,,,,NO_LITELLM_PRICE_YET
+2026-08-22,Qwen / Alibaba Cloud,qwen3.7-max,qwencloud/qwen3.7-max,qwencloud,1.25,3.75,,,,NO_LITELLM_PRICE_YET
+2026-08-22,Together AI / Z AI,GLM-5.2,zai/glm-5.2,zai,1.4,4.4,,,,NO_LITELLM_PRICE_YET
+2026-08-22,Moonshot AI / Kimi,kimi-k3,moonshot/kimi-k3,moonshot,3.0,15.0,3.0,15.0,2026-08-21,AGREE
+2026-08-22,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,,,,NO_LITELLM_PRICE_YET
+2026-08-22,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,0.3,1.2,0.3,1.2,2026-06-10,AGREE
+2026-08-22,xAI,Grok 4.6 (<=500K context),xai/grok-4.6,xai,2.0,6.0,2.0,6.0,2026-08-13,AGREE
+2026-08-21,OpenAI,GPT-5.6 Sol (<272K context),gpt-5.6-sol,openai,5.0,30.0,5.0,30.0,2026-07-09,AGREE
+2026-08-21,OpenAI,GPT-5.6 Terra (<272K context),gpt-5.6-terra,openai,2.0,12.0,2.0,12.0,2026-07-31,AGREE
+2026-08-21,OpenAI,GPT-5.6 Luna (<272K context),gpt-5.6-luna,openai,0.2,1.2,0.2,1.2,2026-07-31,AGREE
+2026-08-21,Google,Gemini 3.7 Flash,gemini/gemini-3.7-flash,gemini,0.75,3.75,0.75,3.75,2026-08-13,AGREE
+2026-08-21,Anthropic,Claude Fable 5,claude-fable-5,anthropic,10.0,50.0,10.0,50.0,2026-06-10,AGREE
+2026-08-21,Anthropic,Claude Mythos 5 (limited access),claude-mythos-5,anthropic,10.0,50.0,10.0,50.0,2026-08-10,AGREE
+2026-08-21,Anthropic,Claude Opus 5,claude-opus-5,anthropic,5.0,25.0,5.0,25.0,2026-07-31,AGREE
+2026-08-21,Anthropic,Claude Sonnet 5,claude-sonnet-5,anthropic,2.0,10.0,2.0,10.0,2026-07-02,AGREE
+2026-08-21,DeepSeek,DeepSeek V4 Flash 0731,deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-08-21,DeepSeek,DeepSeek V4 Flash 0731,deepseek/deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-08-21,DeepSeek,DeepSeek V4 Pro 0813,deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-08-21,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-08-21,Qwen / Alibaba Cloud,qwen3.7-max,dashscope/qwen3.7-max,dashscope,1.25,3.75,2.5,7.5,2026-07-31,DISAGREE
+2026-08-21,Qwen / Alibaba Cloud,qwen3.7-max,qwen_ai_platform/qwen3.7-max,qwen_ai_platform,1.25,3.75,,,,NO_LITELLM_PRICE_YET
+2026-08-21,Qwen / Alibaba Cloud,qwen3.7-max,qwencloud/qwen3.7-max,qwencloud,1.25,3.75,,,,NO_LITELLM_PRICE_YET
+2026-08-21,Together AI / Z AI,GLM-5.2,zai/glm-5.2,zai,1.4,4.4,,,,NO_LITELLM_PRICE_YET
+2026-08-21,Moonshot AI / Kimi,kimi-k3,moonshot/kimi-k3,moonshot,3.0,15.0,3.0,15.0,2026-08-21,AGREE
+2026-08-21,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,,,,NO_LITELLM_PRICE_YET
+2026-08-21,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,0.3,1.2,0.3,1.2,2026-06-10,AGREE
+2026-08-21,xAI,Grok 4.6 (<=500K context),xai/grok-4.6,xai,2.0,6.0,2.0,6.0,2026-08-13,AGREE
+2026-08-20,OpenAI,GPT-5.6 Sol (<272K context),gpt-5.6-sol,openai,5.0,30.0,5.0,30.0,2026-07-09,AGREE
+2026-08-20,OpenAI,GPT-5.6 Terra (<272K context),gpt-5.6-terra,openai,2.0,12.0,2.0,12.0,2026-07-31,AGREE
+2026-08-20,OpenAI,GPT-5.6 Luna (<272K context),gpt-5.6-luna,openai,0.2,1.2,0.2,1.2,2026-07-31,AGREE
+2026-08-20,Google,Gemini 3.7 Flash,gemini/gemini-3.7-flash,gemini,0.75,3.75,0.75,3.75,2026-08-13,AGREE
+2026-08-20,Anthropic,Claude Fable 5,claude-fable-5,anthropic,10.0,50.0,10.0,50.0,2026-06-10,AGREE
+2026-08-20,Anthropic,Claude Mythos 5 (limited access),claude-mythos-5,anthropic,10.0,50.0,10.0,50.0,2026-08-10,AGREE
+2026-08-20,Anthropic,Claude Opus 5,claude-opus-5,anthropic,5.0,25.0,5.0,25.0,2026-07-31,AGREE
+2026-08-20,Anthropic,Claude Sonnet 5,claude-sonnet-5,anthropic,2.0,10.0,2.0,10.0,2026-07-02,AGREE
+2026-08-20,DeepSeek,DeepSeek V4 Flash 0731,deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-08-20,DeepSeek,DeepSeek V4 Flash 0731,deepseek/deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-08-20,DeepSeek,DeepSeek V4 Pro 0813,deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-08-20,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-08-20,Qwen / Alibaba Cloud,qwen3.7-max,dashscope/qwen3.7-max,dashscope,1.25,3.75,2.5,7.5,2026-07-31,DISAGREE
+2026-08-20,Qwen / Alibaba Cloud,qwen3.7-max,qwen_ai_platform/qwen3.7-max,qwen_ai_platform,1.25,3.75,,,,NO_LITELLM_PRICE_YET
+2026-08-20,Qwen / Alibaba Cloud,qwen3.7-max,qwencloud/qwen3.7-max,qwencloud,1.25,3.75,,,,NO_LITELLM_PRICE_YET
+2026-08-20,Together AI / Z AI,GLM-5.2,zai/glm-5.2,zai,1.4,4.4,,,,NO_LITELLM_PRICE_YET
+2026-08-20,Moonshot AI / Kimi,kimi-k3,moonshot/kimi-k3,moonshot,3.0,15.0,,,,NO_LITELLM_PRICE_YET
+2026-08-20,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,,,,NO_LITELLM_PRICE_YET
+2026-08-20,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,0.3,1.2,0.3,1.2,2026-06-10,AGREE
+2026-08-20,xAI,Grok 4.6 (<=500K context),xai/grok-4.6,xai,2.0,6.0,2.0,6.0,2026-08-13,AGREE
+2026-08-19,OpenAI,GPT-5.6 Sol (<272K context),gpt-5.6-sol,openai,5.0,30.0,5.0,30.0,2026-07-09,AGREE
+2026-08-19,OpenAI,GPT-5.6 Terra (<272K context),gpt-5.6-terra,openai,2.0,12.0,2.0,12.0,2026-07-31,AGREE
+2026-08-19,OpenAI,GPT-5.6 Luna (<272K context),gpt-5.6-luna,openai,0.2,1.2,0.2,1.2,2026-07-31,AGREE
+2026-08-19,Google,Gemini 3.7 Flash,gemini/gemini-3.7-flash,gemini,0.75,3.75,0.75,3.75,2026-08-13,AGREE
+2026-08-19,Anthropic,Claude Fable 5,claude-fable-5,anthropic,10.0,50.0,10.0,50.0,2026-06-10,AGREE
+2026-08-19,Anthropic,Claude Mythos 5 (limited access),claude-mythos-5,anthropic,10.0,50.0,10.0,50.0,2026-08-10,AGREE
+2026-08-19,Anthropic,Claude Opus 5,claude-opus-5,anthropic,5.0,25.0,5.0,25.0,2026-07-31,AGREE
+2026-08-19,Anthropic,Claude Sonnet 5,claude-sonnet-5,anthropic,2.0,10.0,2.0,10.0,2026-07-02,AGREE
+2026-08-19,DeepSeek,DeepSeek V4 Flash 0731,deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-08-19,DeepSeek,DeepSeek V4 Flash 0731,deepseek/deepseek-v4-flash,deepseek,0.44,1.32,0.44,1.32,2026-08-19,AGREE
+2026-08-19,DeepSeek,DeepSeek V4 Pro 0813,deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-08-19,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro,deepseek,1.32,3.96,1.32,3.96,2026-08-19,AGREE
+2026-08-19,Qwen / Alibaba Cloud,qwen3.7-max,dashscope/qwen3.7-max,dashscope,1.25,3.75,2.5,7.5,2026-07-31,DISAGREE
+2026-08-19,Qwen / Alibaba Cloud,qwen3.7-max,qwen_ai_platform/qwen3.7-max,qwen_ai_platform,1.25,3.75,,,,NO_LITELLM_PRICE_YET
+2026-08-19,Qwen / Alibaba Cloud,qwen3.7-max,qwencloud/qwen3.7-max,qwencloud,1.25,3.75,,,,NO_LITELLM_PRICE_YET
+2026-08-19,Together AI / Z AI,GLM-5.2,zai/glm-5.2,zai,1.4,4.4,,,,NO_LITELLM_PRICE_YET
+2026-08-19,Moonshot AI / Kimi,kimi-k3,moonshot/kimi-k3,moonshot,3.0,15.0,,,,NO_LITELLM_PRICE_YET
+2026-08-19,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,,,,NO_LITELLM_PRICE_YET
+2026-08-19,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,0.3,1.2,0.3,1.2,2026-06-10,AGREE
+2026-08-19,xAI,Grok 4.6 (<=500K context),xai/grok-4.6,xai,2.0,6.0,2.0,6.0,2026-08-13,AGREE
+2026-08-18,OpenAI,GPT-5.6 Sol (<272K context),gpt-5.6-sol,openai,5.0,30.0,5.0,30.0,2026-07-09,AGREE
+2026-08-18,OpenAI,GPT-5.6 Terra (<272K context),gpt-5.6-terra,openai,2.0,12.0,2.0,12.0,2026-07-31,AGREE
+2026-08-18,OpenAI,GPT-5.6 Luna (<272K context),gpt-5.6-luna,openai,0.2,1.2,0.2,1.2,2026-07-31,AGREE
+2026-08-18,Google,Gemini 3.7 Flash,gemini/gemini-3.7-flash,gemini,0.75,3.75,0.75,3.75,2026-08-13,AGREE
+2026-08-18,Anthropic,Claude Fable 5,claude-fable-5,anthropic,10.0,50.0,10.0,50.0,2026-06-10,AGREE
+2026-08-18,Anthropic,Claude Mythos 5 (limited access),claude-mythos-5,anthropic,10.0,50.0,10.0,50.0,2026-08-10,AGREE
+2026-08-18,Anthropic,Claude Opus 5,claude-opus-5,anthropic,5.0,25.0,5.0,25.0,2026-07-31,AGREE
+2026-08-18,Anthropic,Claude Sonnet 5,claude-sonnet-5,anthropic,2.0,10.0,2.0,10.0,2026-07-02,AGREE
+2026-08-18,DeepSeek,DeepSeek V4 Flash 0731,deepseek-v4-flash,deepseek,0.44,1.32,0.14,0.28,2026-06-17,DISAGREE
+2026-08-18,DeepSeek,DeepSeek V4 Flash 0731,deepseek/deepseek-v4-flash,deepseek,0.44,1.32,0.14,0.28,2026-06-17,DISAGREE
+2026-08-18,DeepSeek,DeepSeek V4 Pro 0813,deepseek-v4-pro,deepseek,1.32,3.96,0.435,0.87,2026-06-17,DISAGREE
+2026-08-18,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro,deepseek,1.32,3.96,0.435,0.87,2026-06-17,DISAGREE
+2026-08-18,Qwen / Alibaba Cloud,qwen3.7-max,dashscope/qwen3.7-max,dashscope,1.25,3.75,2.5,7.5,2026-07-31,DISAGREE
+2026-08-18,Qwen / Alibaba Cloud,qwen3.7-max,qwen_ai_platform/qwen3.7-max,qwen_ai_platform,1.25,3.75,,,,NO_LITELLM_PRICE_YET
+2026-08-18,Qwen / Alibaba Cloud,qwen3.7-max,qwencloud/qwen3.7-max,qwencloud,1.25,3.75,,,,NO_LITELLM_PRICE_YET
+2026-08-18,Together AI / Z AI,GLM-5.2,zai/glm-5.2,zai,1.4,4.4,,,,NO_LITELLM_PRICE_YET
+2026-08-18,Moonshot AI / Kimi,kimi-k3,moonshot/kimi-k3,moonshot,3.0,15.0,,,,NO_LITELLM_PRICE_YET
+2026-08-18,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,,,,NO_LITELLM_PRICE_YET
+2026-08-18,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,0.3,1.2,0.3,1.2,2026-06-10,AGREE
+2026-08-18,xAI,Grok 4.6 (<=500K context),xai/grok-4.6,xai,2.0,6.0,2.0,6.0,2026-08-13,AGREE
+2026-08-17,OpenAI,GPT-5.6 Sol (<272K context),gpt-5.6-sol,openai,5.0,30.0,5.0,30.0,2026-07-09,AGREE
+2026-08-17,OpenAI,GPT-5.6 Terra (<272K context),gpt-5.6-terra,openai,2.0,12.0,2.0,12.0,2026-07-31,AGREE
+2026-08-17,OpenAI,GPT-5.6 Luna (<272K context),gpt-5.6-luna,openai,0.2,1.2,0.2,1.2,2026-07-31,AGREE
+2026-08-17,Google,Gemini 3.7 Flash,gemini/gemini-3.7-flash,gemini,0.75,3.75,0.75,3.75,2026-08-13,AGREE
+2026-08-17,Anthropic,Claude Fable 5,claude-fable-5,anthropic,10.0,50.0,10.0,50.0,2026-06-10,AGREE
+2026-08-17,Anthropic,Claude Mythos 5 (limited access),claude-mythos-5,anthropic,10.0,50.0,10.0,50.0,2026-08-10,AGREE
+2026-08-17,Anthropic,Claude Opus 5,claude-opus-5,anthropic,5.0,25.0,5.0,25.0,2026-07-31,AGREE
+2026-08-17,Anthropic,Claude Sonnet 5,claude-sonnet-5,anthropic,2.0,10.0,2.0,10.0,2026-07-02,AGREE
+2026-08-17,DeepSeek,DeepSeek V4 Flash 0731,deepseek-v4-flash,deepseek,0.44,1.32,0.14,0.28,2026-06-17,DISAGREE
+2026-08-17,DeepSeek,DeepSeek V4 Flash 0731,deepseek/deepseek-v4-flash,deepseek,0.44,1.32,0.14,0.28,2026-06-17,DISAGREE
+2026-08-17,DeepSeek,DeepSeek V4 Pro 0813,deepseek-v4-pro,deepseek,1.32,3.96,0.435,0.87,2026-06-17,DISAGREE
+2026-08-17,DeepSeek,DeepSeek V4 Pro 0813,deepseek/deepseek-v4-pro,deepseek,1.32,3.96,0.435,0.87,2026-06-17,DISAGREE
+2026-08-17,Qwen / Alibaba Cloud,qwen3.7-max,dashscope/qwen3.7-max,dashscope,1.25,3.75,2.5,7.5,2026-07-31,DISAGREE
+2026-08-17,Qwen / Alibaba Cloud,qwen3.7-max,qwen_ai_platform/qwen3.7-max,qwen_ai_platform,1.25,3.75,,,,NO_LITELLM_PRICE_YET
+2026-08-17,Qwen / Alibaba Cloud,qwen3.7-max,qwencloud/qwen3.7-max,qwencloud,1.25,3.75,,,,NO_LITELLM_PRICE_YET
+2026-08-17,Together AI / Z AI,GLM-5.2,zai/glm-5.2,zai,1.4,4.4,,,,NO_LITELLM_PRICE_YET
+2026-08-17,Moonshot AI / Kimi,kimi-k3,moonshot/kimi-k3,moonshot,3.0,15.0,,,,NO_LITELLM_PRICE_YET
+2026-08-17,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,,,,NO_LITELLM_PRICE_YET
+2026-08-17,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,0.3,1.2,0.3,1.2,2026-06-10,AGREE
+2026-08-17,xAI,Grok 4.6 (<=500K context),xai/grok-4.6,xai,2.0,6.0,2.0,6.0,2026-08-13,AGREE
+2026-07-15,OpenAI,GPT-5.6 Sol (<272K context),gpt-5.6-sol,openai,5.0,30.0,5.0,30.0,2026-07-09,AGREE
+2026-07-15,OpenAI,GPT-5.6 Terra (<272K context),gpt-5.6-terra,openai,2.5,15.0,2.5,15.0,2026-07-09,AGREE
+2026-07-15,OpenAI,GPT-5.6 Luna (<272K context),gpt-5.6-luna,openai,1.0,6.0,1.0,6.0,2026-07-09,AGREE
+2026-07-15,Google,Gemini 3.5 Flash,gemini/gemini-3.5-flash,gemini,1.5,9.0,1.5,9.0,2026-05-19,AGREE
+2026-07-15,Anthropic,Claude Fable 5,claude-fable-5,anthropic,10.0,50.0,10.0,50.0,2026-06-10,AGREE
+2026-07-15,Anthropic,Claude Mythos 5 (limited access),claude-mythos-5,anthropic,10.0,50.0,,,,NO_LITELLM_PRICE_YET
+2026-07-15,Anthropic,Claude Sonnet 5,claude-sonnet-5,anthropic,2.0,10.0,2.0,10.0,2026-07-02,AGREE
+2026-07-15,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,0.14,0.28,2026-06-17,AGREE
+2026-07-15,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,0.14,0.28,2026-06-17,AGREE
+2026-07-15,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,0.435,0.87,0.435,0.87,2026-06-17,AGREE
+2026-07-15,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,0.435,0.87,0.435,0.87,2026-06-17,AGREE
+2026-07-15,Qwen / Alibaba Cloud,qwen3.7-max,dashscope/qwen3.7-max,dashscope,2.5,7.5,,,,NO_LITELLM_PRICE_YET
+2026-07-15,Qwen / Alibaba Cloud,qwen3.7-max,qwen_ai_platform/qwen3.7-max,qwen_ai_platform,2.5,7.5,,,,NO_LITELLM_PRICE_YET
+2026-07-15,Qwen / Alibaba Cloud,qwen3.7-max,qwencloud/qwen3.7-max,qwencloud,2.5,7.5,,,,NO_LITELLM_PRICE_YET
+2026-07-15,Together AI / Z AI,GLM-5.2,zai/glm-5.2,zai,1.4,4.4,,,,NO_LITELLM_PRICE_YET
+2026-07-15,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,,,,NO_LITELLM_PRICE_YET
+2026-07-15,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,2.1,8.4,0.3,1.2,2026-06-10,DISAGREE
+2026-07-15,xAI,Grok 4.5,xai/grok-4.5,xai,2.0,6.0,2.0,6.0,2026-07-09,AGREE
+2026-07-14,OpenAI,GPT-5.6 Sol (<272K context),gpt-5.6-sol,openai,5.0,30.0,5.0,30.0,2026-07-09,AGREE
+2026-07-14,OpenAI,GPT-5.6 Terra (<272K context),gpt-5.6-terra,openai,2.5,15.0,2.5,15.0,2026-07-09,AGREE
+2026-07-14,OpenAI,GPT-5.6 Luna (<272K context),gpt-5.6-luna,openai,1.0,6.0,1.0,6.0,2026-07-09,AGREE
+2026-07-14,Google,Gemini 3.5 Flash,gemini/gemini-3.5-flash,gemini,1.5,9.0,1.5,9.0,2026-05-19,AGREE
+2026-07-14,Anthropic,Claude Fable 5,claude-fable-5,anthropic,10.0,50.0,10.0,50.0,2026-06-10,AGREE
+2026-07-14,Anthropic,Claude Mythos 5 (limited access),claude-mythos-5,anthropic,10.0,50.0,,,,NO_LITELLM_PRICE_YET
+2026-07-14,Anthropic,Claude Sonnet 5,claude-sonnet-5,anthropic,2.0,10.0,2.0,10.0,2026-07-02,AGREE
+2026-07-14,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,0.14,0.28,2026-06-17,AGREE
+2026-07-14,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,0.14,0.28,2026-06-17,AGREE
+2026-07-14,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,0.435,0.87,0.435,0.87,2026-06-17,AGREE
+2026-07-14,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,0.435,0.87,0.435,0.87,2026-06-17,AGREE
+2026-07-14,Qwen / Alibaba Cloud,qwen3.7-max,dashscope/qwen3.7-max,dashscope,2.5,7.5,,,,NO_LITELLM_PRICE_YET
+2026-07-14,Qwen / Alibaba Cloud,qwen3.7-max,qwen_ai_platform/qwen3.7-max,qwen_ai_platform,2.5,7.5,,,,NO_LITELLM_PRICE_YET
+2026-07-14,Qwen / Alibaba Cloud,qwen3.7-max,qwencloud/qwen3.7-max,qwencloud,2.5,7.5,,,,NO_LITELLM_PRICE_YET
+2026-07-14,Together AI / Z AI,GLM-5.2,zai/glm-5.2,zai,1.4,4.4,,,,NO_LITELLM_PRICE_YET
+2026-07-14,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,,,,NO_LITELLM_PRICE_YET
+2026-07-14,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,2.1,8.4,0.3,1.2,2026-06-10,DISAGREE
+2026-07-14,xAI,Grok 4.5,xai/grok-4.5,xai,2.0,6.0,2.0,6.0,2026-07-09,AGREE
+2026-07-13,OpenAI,GPT-5.6 Sol (<272K context),gpt-5.6-sol,openai,5.0,30.0,5.0,30.0,2026-07-09,AGREE
+2026-07-13,OpenAI,GPT-5.6 Terra (<272K context),gpt-5.6-terra,openai,2.5,15.0,2.5,15.0,2026-07-09,AGREE
+2026-07-13,OpenAI,GPT-5.6 Luna (<272K context),gpt-5.6-luna,openai,1.0,6.0,1.0,6.0,2026-07-09,AGREE
+2026-07-13,Google,Gemini 3.5 Flash,gemini/gemini-3.5-flash,gemini,1.5,9.0,1.5,9.0,2026-05-19,AGREE
+2026-07-13,Anthropic,Claude Fable 5,claude-fable-5,anthropic,10.0,50.0,10.0,50.0,2026-06-10,AGREE
+2026-07-13,Anthropic,Claude Mythos 5 (limited access),claude-mythos-5,anthropic,10.0,50.0,,,,NO_LITELLM_PRICE_YET
+2026-07-13,Anthropic,Claude Sonnet 5,claude-sonnet-5,anthropic,2.0,10.0,2.0,10.0,2026-07-02,AGREE
+2026-07-13,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,0.14,0.28,2026-06-17,AGREE
+2026-07-13,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,0.14,0.28,2026-06-17,AGREE
+2026-07-13,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,0.435,0.87,0.435,0.87,2026-06-17,AGREE
+2026-07-13,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,0.435,0.87,0.435,0.87,2026-06-17,AGREE
+2026-07-13,Qwen / Alibaba Cloud,qwen3.7-max,dashscope/qwen3.7-max,dashscope,2.5,7.5,,,,NO_LITELLM_PRICE_YET
+2026-07-13,Qwen / Alibaba Cloud,qwen3.7-max,qwen_ai_platform/qwen3.7-max,qwen_ai_platform,2.5,7.5,,,,NO_LITELLM_PRICE_YET
+2026-07-13,Qwen / Alibaba Cloud,qwen3.7-max,qwencloud/qwen3.7-max,qwencloud,2.5,7.5,,,,NO_LITELLM_PRICE_YET
+2026-07-13,Together AI / Z AI,GLM-5.2,zai/glm-5.2,zai,1.4,4.4,,,,NO_LITELLM_PRICE_YET
+2026-07-13,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,,,,NO_LITELLM_PRICE_YET
+2026-07-13,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,2.1,8.4,0.3,1.2,2026-06-10,DISAGREE
+2026-07-13,xAI,Grok 4.5,xai/grok-4.5,xai,2.0,6.0,2.0,6.0,2026-07-09,AGREE
+2026-07-06,OpenAI,GPT-5.5 (<272K context),gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-07-06,Google,Gemini 3.5 Flash,gemini/gemini-3.5-flash,gemini,1.5,9.0,1.5,9.0,2026-05-19,AGREE
+2026-07-06,Anthropic,Claude Fable 5,claude-fable-5,anthropic,10.0,50.0,10.0,50.0,2026-06-10,AGREE
+2026-07-06,Anthropic,Claude Sonnet 5,claude-sonnet-5,anthropic,2.0,10.0,2.0,10.0,2026-07-02,AGREE
+2026-07-06,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,0.14,0.28,2026-06-17,AGREE
+2026-07-06,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,0.14,0.28,2026-06-17,AGREE
+2026-07-06,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,0.435,0.87,0.435,0.87,2026-06-17,AGREE
+2026-07-06,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,0.435,0.87,0.435,0.87,2026-06-17,AGREE
+2026-07-06,Qwen / Alibaba Cloud,qwen3.7-max,dashscope/qwen3.7-max,dashscope,2.5,7.5,,,,NO_LITELLM_PRICE_YET
+2026-07-06,Qwen / Alibaba Cloud,qwen3.7-max,qwen_ai_platform/qwen3.7-max,qwen_ai_platform,2.5,7.5,,,,NO_LITELLM_PRICE_YET
+2026-07-06,Qwen / Alibaba Cloud,qwen3.7-max,qwencloud/qwen3.7-max,qwencloud,2.5,7.5,,,,NO_LITELLM_PRICE_YET
+2026-07-06,Together AI / Z AI,GLM-5.2,zai/glm-5.2,zai,1.4,4.4,,,,NO_LITELLM_PRICE_YET
+2026-07-06,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,,,,NO_LITELLM_PRICE_YET
+2026-07-06,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,2.1,8.4,0.3,1.2,2026-06-10,DISAGREE
+2026-07-06,xAI,Grok 4.3,xai/grok-4.3,xai,1.25,2.5,1.25,2.5,2026-05-07,AGREE
+2026-07-04,OpenAI,GPT-5.5 (<272K context),gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-07-04,Google,Gemini 3.5 Flash,gemini/gemini-3.5-flash,gemini,1.5,9.0,1.5,9.0,2026-05-19,AGREE
+2026-07-04,Anthropic,Claude Fable 5,claude-fable-5,anthropic,10.0,50.0,10.0,50.0,2026-06-10,AGREE
+2026-07-04,Anthropic,Claude Sonnet 5,claude-sonnet-5,anthropic,2.0,10.0,2.0,10.0,2026-07-02,AGREE
+2026-07-04,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,0.14,0.28,2026-06-17,AGREE
+2026-07-04,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,0.14,0.28,2026-06-17,AGREE
+2026-07-04,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,0.435,0.87,0.435,0.87,2026-06-17,AGREE
+2026-07-04,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,0.435,0.87,0.435,0.87,2026-06-17,AGREE
+2026-07-04,Qwen / Alibaba Cloud,qwen3.7-max,dashscope/qwen3.7-max,dashscope,2.5,7.5,,,,NO_LITELLM_PRICE_YET
+2026-07-04,Qwen / Alibaba Cloud,qwen3.7-max,qwen_ai_platform/qwen3.7-max,qwen_ai_platform,2.5,7.5,,,,NO_LITELLM_PRICE_YET
+2026-07-04,Qwen / Alibaba Cloud,qwen3.7-max,qwencloud/qwen3.7-max,qwencloud,2.5,7.5,,,,NO_LITELLM_PRICE_YET
+2026-07-04,Together AI / Z AI,GLM-5.2,zai/glm-5.2,zai,1.4,4.4,,,,NO_LITELLM_PRICE_YET
+2026-07-04,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,,,,NO_LITELLM_PRICE_YET
+2026-07-04,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,2.1,8.4,0.3,1.2,2026-06-10,DISAGREE
+2026-07-04,xAI,Grok 4.3,xai/grok-4.3,xai,1.25,2.5,1.25,2.5,2026-05-07,AGREE
+2026-06-22,OpenAI,GPT-5.5 (<272K context),gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-06-22,Google,Gemini 3.5 Flash,gemini/gemini-3.5-flash,gemini,1.5,9.0,1.5,9.0,2026-05-19,AGREE
+2026-06-22,Anthropic,Claude Opus 4.8,claude-opus-4-8,anthropic,5.0,25.0,5.0,25.0,2026-05-29,AGREE
+2026-06-22,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,0.14,0.28,2026-06-17,AGREE
+2026-06-22,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,0.14,0.28,2026-06-17,AGREE
+2026-06-22,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,0.435,0.87,0.435,0.87,2026-06-17,AGREE
+2026-06-22,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,0.435,0.87,0.435,0.87,2026-06-17,AGREE
+2026-06-22,Qwen / Alibaba Cloud,qwen3-max,dashscope/qwen3-max,dashscope,1.2,6.0,,,2026-02-11,NO_LITELLM_PRICE_YET
+2026-06-22,Qwen / Alibaba Cloud,qwen3-max,qwen_ai_platform/qwen3-max,qwen_ai_platform,1.2,6.0,,,,NO_LITELLM_PRICE_YET
+2026-06-22,Qwen / Alibaba Cloud,qwen3-max,qwencloud/qwen3-max,qwencloud,1.2,6.0,,,,NO_LITELLM_PRICE_YET
+2026-06-22,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-06-22,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,,,,NO_LITELLM_PRICE_YET
+2026-06-22,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,2.1,8.4,0.3,1.2,2026-06-10,DISAGREE
+2026-06-22,xAI,Grok 4.3,xai/grok-4.3,xai,1.25,2.5,1.25,2.5,2026-05-07,AGREE
+2026-06-21,OpenAI,GPT-5.5 (<272K context),gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-06-21,Google,Gemini 3.5 Flash,gemini/gemini-3.5-flash,gemini,1.5,9.0,1.5,9.0,2026-05-19,AGREE
+2026-06-21,Anthropic,Claude Opus 4.8,claude-opus-4-8,anthropic,5.0,25.0,5.0,25.0,2026-05-29,AGREE
+2026-06-21,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,0.14,0.28,2026-06-17,AGREE
+2026-06-21,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,0.14,0.28,2026-06-17,AGREE
+2026-06-21,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,0.435,0.87,0.435,0.87,2026-06-17,AGREE
+2026-06-21,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,0.435,0.87,0.435,0.87,2026-06-17,AGREE
+2026-06-21,Qwen / Alibaba Cloud,qwen3-max,dashscope/qwen3-max,dashscope,1.2,6.0,,,2026-02-11,NO_LITELLM_PRICE_YET
+2026-06-21,Qwen / Alibaba Cloud,qwen3-max,qwen_ai_platform/qwen3-max,qwen_ai_platform,1.2,6.0,,,,NO_LITELLM_PRICE_YET
+2026-06-21,Qwen / Alibaba Cloud,qwen3-max,qwencloud/qwen3-max,qwencloud,1.2,6.0,,,,NO_LITELLM_PRICE_YET
+2026-06-21,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-06-21,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,,,,NO_LITELLM_PRICE_YET
+2026-06-21,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,2.1,8.4,0.3,1.2,2026-06-10,DISAGREE
+2026-06-21,xAI,Grok 4.3,xai/grok-4.3,xai,1.25,2.5,1.25,2.5,2026-05-07,AGREE
+2026-06-20,OpenAI,GPT-5.5 (<272K context),gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-06-20,Google,Gemini 3.5 Flash,gemini/gemini-3.5-flash,gemini,1.5,9.0,1.5,9.0,2026-05-19,AGREE
+2026-06-20,Anthropic,Claude Opus 4.8,claude-opus-4-8,anthropic,5.0,25.0,5.0,25.0,2026-05-29,AGREE
+2026-06-20,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,0.14,0.28,2026-06-17,AGREE
+2026-06-20,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,0.14,0.28,2026-06-17,AGREE
+2026-06-20,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,0.435,0.87,0.435,0.87,2026-06-17,AGREE
+2026-06-20,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,0.435,0.87,0.435,0.87,2026-06-17,AGREE
+2026-06-20,Qwen / Alibaba Cloud,qwen3-max,dashscope/qwen3-max,dashscope,1.2,6.0,,,2026-02-11,NO_LITELLM_PRICE_YET
+2026-06-20,Qwen / Alibaba Cloud,qwen3-max,qwen_ai_platform/qwen3-max,qwen_ai_platform,1.2,6.0,,,,NO_LITELLM_PRICE_YET
+2026-06-20,Qwen / Alibaba Cloud,qwen3-max,qwencloud/qwen3-max,qwencloud,1.2,6.0,,,,NO_LITELLM_PRICE_YET
+2026-06-20,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-06-20,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,,,,NO_LITELLM_PRICE_YET
+2026-06-20,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,2.1,8.4,0.3,1.2,2026-06-10,DISAGREE
+2026-06-20,xAI,Grok 4.3,xai/grok-4.3,xai,1.25,2.5,1.25,2.5,2026-05-07,AGREE
+2026-06-19,OpenAI,GPT-5.5 (<272K context),gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-06-19,Google,Gemini 3.5 Flash,gemini/gemini-3.5-flash,gemini,1.5,9.0,1.5,9.0,2026-05-19,AGREE
+2026-06-19,Anthropic,Claude Opus 4.8,claude-opus-4-8,anthropic,5.0,25.0,5.0,25.0,2026-05-29,AGREE
+2026-06-19,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,0.14,0.28,2026-06-17,AGREE
+2026-06-19,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,0.14,0.28,2026-06-17,AGREE
+2026-06-19,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,0.435,0.87,0.435,0.87,2026-06-17,AGREE
+2026-06-19,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,0.435,0.87,0.435,0.87,2026-06-17,AGREE
+2026-06-19,Qwen / Alibaba Cloud,qwen3-max,dashscope/qwen3-max,dashscope,1.2,6.0,,,2026-02-11,NO_LITELLM_PRICE_YET
+2026-06-19,Qwen / Alibaba Cloud,qwen3-max,qwen_ai_platform/qwen3-max,qwen_ai_platform,1.2,6.0,,,,NO_LITELLM_PRICE_YET
+2026-06-19,Qwen / Alibaba Cloud,qwen3-max,qwencloud/qwen3-max,qwencloud,1.2,6.0,,,,NO_LITELLM_PRICE_YET
+2026-06-19,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-06-19,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,,,,NO_LITELLM_PRICE_YET
+2026-06-19,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,2.1,8.4,0.3,1.2,2026-06-10,DISAGREE
+2026-06-19,xAI,Grok 4.3,xai/grok-4.3,xai,1.25,2.5,1.25,2.5,2026-05-07,AGREE
+2026-06-18,OpenAI,GPT-5.5 (<272K context),gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-06-18,Google,Gemini 3.5 Flash,gemini/gemini-3.5-flash,gemini,1.5,9.0,1.5,9.0,2026-05-19,AGREE
+2026-06-18,Anthropic,Claude Opus 4.8,claude-opus-4-8,anthropic,5.0,25.0,5.0,25.0,2026-05-29,AGREE
+2026-06-18,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,0.14,0.28,2026-06-17,AGREE
+2026-06-18,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,0.14,0.28,2026-06-17,AGREE
+2026-06-18,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,0.435,0.87,0.435,0.87,2026-06-17,AGREE
+2026-06-18,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,0.435,0.87,0.435,0.87,2026-06-17,AGREE
+2026-06-18,Qwen / Alibaba Cloud,qwen3-max,dashscope/qwen3-max,dashscope,1.2,6.0,,,2026-02-11,NO_LITELLM_PRICE_YET
+2026-06-18,Qwen / Alibaba Cloud,qwen3-max,qwen_ai_platform/qwen3-max,qwen_ai_platform,1.2,6.0,,,,NO_LITELLM_PRICE_YET
+2026-06-18,Qwen / Alibaba Cloud,qwen3-max,qwencloud/qwen3-max,qwencloud,1.2,6.0,,,,NO_LITELLM_PRICE_YET
+2026-06-18,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-06-18,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,,,,NO_LITELLM_PRICE_YET
+2026-06-18,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,2.1,8.4,0.3,1.2,2026-06-10,DISAGREE
+2026-06-18,xAI,Grok 4.3,xai/grok-4.3,xai,1.25,2.5,1.25,2.5,2026-05-07,AGREE
+2026-06-18,OpenAI,GPT-5.5 (<272K context),gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-06-18,Google,Gemini 3.5 Flash,gemini/gemini-3.5-flash,gemini,1.5,9.0,1.5,9.0,2026-05-19,AGREE
+2026-06-18,Anthropic,Claude Opus 4.8,claude-opus-4-8,anthropic,5.0,25.0,5.0,25.0,2026-05-29,AGREE
+2026-06-18,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,0.14,0.28,2026-06-17,AGREE
+2026-06-18,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,0.14,0.28,2026-06-17,AGREE
+2026-06-18,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,0.435,0.87,0.435,0.87,2026-06-17,AGREE
+2026-06-18,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,0.435,0.87,0.435,0.87,2026-06-17,AGREE
+2026-06-18,Qwen / Alibaba Cloud,qwen3-max,dashscope/qwen3-max,dashscope,1.2,6.0,,,2026-02-11,NO_LITELLM_PRICE_YET
+2026-06-18,Qwen / Alibaba Cloud,qwen3-max,qwen_ai_platform/qwen3-max,qwen_ai_platform,1.2,6.0,,,,NO_LITELLM_PRICE_YET
+2026-06-18,Qwen / Alibaba Cloud,qwen3-max,qwencloud/qwen3-max,qwencloud,1.2,6.0,,,,NO_LITELLM_PRICE_YET
+2026-06-18,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-06-18,Moonshot AI / Kimi,kimi-k2.7-code,moonshot/kimi-k2.7-code,moonshot,0.95,4.0,,,,NO_LITELLM_PRICE_YET
+2026-06-18,MiniMax,MiniMax-M3,minimax/MiniMax-M3,minimax,2.1,8.4,0.3,1.2,2026-06-10,DISAGREE
+2026-06-18,xAI,Grok 4.3,xai/grok-4.3,xai,1.25,2.5,1.25,2.5,2026-05-07,AGREE
+2026-05-20,OpenAI,GPT-5.5 (<272K context),gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-05-20,Google,Gemini 3.1 Pro Preview,gemini/gemini-3.1-pro-preview,gemini,2.0,12.0,2.0,12.0,2026-02-20,AGREE
+2026-05-20,Anthropic,Claude Opus 4.7,claude-opus-4-7,anthropic,5.0,25.0,5.0,25.0,2026-04-16,AGREE
+2026-05-20,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-20,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-20,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,0.435,0.87,,,,NO_LITELLM_PRICE_YET
+2026-05-20,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,0.435,0.87,,,,NO_LITELLM_PRICE_YET
+2026-05-20,Qwen / Alibaba Cloud,qwen3-max,dashscope/qwen3-max,dashscope,1.2,6.0,,,2026-02-11,NO_LITELLM_PRICE_YET
+2026-05-20,Qwen / Alibaba Cloud,qwen3-max,qwen_ai_platform/qwen3-max,qwen_ai_platform,1.2,6.0,,,,NO_LITELLM_PRICE_YET
+2026-05-20,Qwen / Alibaba Cloud,qwen3-max,qwencloud/qwen3-max,qwencloud,1.2,6.0,,,,NO_LITELLM_PRICE_YET
+2026-05-20,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-05-20,Moonshot AI / Kimi,kimi-k2.6,moonshot/kimi-k2.6,moonshot,0.95,4.0,0.95,4.0,2026-04-22,AGREE
+2026-05-20,xAI,Grok 4.3,xai/grok-4.3,xai,1.25,2.5,1.25,2.5,2026-05-07,AGREE
+2026-05-19,OpenAI,GPT-5.5,gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-05-19,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-05-19,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-19,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-19,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-19,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-19,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-05-19,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-05-19,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-05-18,OpenAI,GPT-5.5,gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-05-18,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-05-18,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-18,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-18,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-18,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-18,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-05-18,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-05-18,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-05-17,OpenAI,GPT-5.5,gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-05-17,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-05-17,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-17,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-17,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-17,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-17,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-05-17,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-05-17,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-05-16,OpenAI,GPT-5.5,gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-05-16,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-05-16,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-16,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-16,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-16,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-16,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-05-16,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-05-16,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-05-15,OpenAI,GPT-5.5,gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-05-15,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-05-15,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-15,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-15,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-15,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-15,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-05-15,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-05-15,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-05-14,OpenAI,GPT-5.5,gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-05-14,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-05-14,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-14,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-14,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-14,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-14,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-05-14,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-05-14,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-05-13,OpenAI,GPT-5.5,gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-05-13,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-05-13,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-13,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-13,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-13,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-13,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-05-13,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-05-13,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-05-12,OpenAI,GPT-5.5,gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-05-12,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-05-12,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-12,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-12,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-12,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-12,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-05-12,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-05-12,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-05-11,OpenAI,GPT-5.5,gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-05-11,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-05-11,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-11,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-11,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-11,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-11,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-05-11,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-05-11,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-05-10,OpenAI,GPT-5.5,gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-05-10,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-05-10,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-10,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-10,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-10,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-10,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-05-10,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-05-10,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-05-09,OpenAI,GPT-5.5,gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-05-09,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-05-09,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-09,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-09,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-09,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-09,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-05-09,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-05-09,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-05-08,OpenAI,GPT-5.5,gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-05-08,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-05-08,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-08,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-08,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-08,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-08,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-05-08,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-05-08,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-05-07,OpenAI,GPT-5.5,gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-05-07,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-05-07,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-07,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-07,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-07,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-07,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-05-07,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-05-07,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-05-05,OpenAI,GPT-5.5,gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-05-05,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-05-05,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-05,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-05,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-05,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-05,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-05-05,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-05-05,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-05-04,OpenAI,GPT-5.5,gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-05-04,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-05-04,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-04,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-04,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-04,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-04,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-05-04,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-05-04,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-05-03,OpenAI,GPT-5.5,gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-05-03,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-05-03,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-03,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-03,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-03,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-03,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-05-03,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-05-03,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-05-02,OpenAI,GPT-5.5,gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-05-02,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-05-02,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-02,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-02,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-02,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-02,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-05-02,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-05-02,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-05-01,OpenAI,GPT-5.5,gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-05-01,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-05-01,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-01,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-05-01,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-01,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-05-01,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-05-01,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-05-01,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-30,OpenAI,GPT-5.5,gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-04-30,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-30,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-04-30,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-04-30,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-04-30,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-04-30,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-30,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-30,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-29,OpenAI,GPT-5.5,gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-04-29,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-29,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-04-29,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-04-29,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-04-29,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-04-29,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-29,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-29,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-29,OpenAI,GPT-5.5,gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-04-29,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-29,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-04-29,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-04-29,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-04-29,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-04-29,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-29,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-29,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-29,OpenAI,GPT-5.5,gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-04-29,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-29,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-04-29,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-04-29,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-04-29,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-04-29,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-29,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-29,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-29,OpenAI,GPT-5.5,gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-04-29,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-29,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-04-29,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-04-29,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-04-29,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-04-29,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-29,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-29,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-28,OpenAI,GPT-5.5,gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-04-28,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-28,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-04-28,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-04-28,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-04-28,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-04-28,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-28,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-28,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-27,OpenAI,GPT-5.5,gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-04-27,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-27,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-04-27,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-04-27,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-04-27,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-04-27,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-27,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-27,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-26,OpenAI,GPT-5.5,gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-04-26,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-26,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-04-26,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-04-26,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-04-26,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-04-26,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-26,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-26,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-25,OpenAI,GPT-5.5,gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-04-25,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-25,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-04-25,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-04-25,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-04-25,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-04-25,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-25,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-25,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-24,OpenAI,GPT-5.5,gpt-5.5,openai,5.0,30.0,5.0,30.0,2026-04-23,AGREE
+2026-04-24,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-24,DeepSeek,deepseek-v4-flash,deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-04-24,DeepSeek,deepseek-v4-flash,deepseek/deepseek-v4-flash,deepseek,0.14,0.28,,,,NO_LITELLM_PRICE_YET
+2026-04-24,DeepSeek,deepseek-v4-pro,deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-04-24,DeepSeek,deepseek-v4-pro,deepseek/deepseek-v4-pro,deepseek,1.74,3.48,,,,NO_LITELLM_PRICE_YET
+2026-04-24,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-24,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-24,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-24,OpenAI,GPT-5.4,gpt-5.4,openai,2.5,15.0,2.5,15.0,2026-03-05,AGREE
+2026-04-24,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-24,DeepSeek,deepseek-chat,deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-24,DeepSeek,deepseek-chat,deepseek/deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-24,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-24,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-24,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-23,OpenAI,GPT-5.4,gpt-5.4,openai,2.5,15.0,2.5,15.0,2026-03-05,AGREE
+2026-04-23,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-23,DeepSeek,deepseek-chat,deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-23,DeepSeek,deepseek-chat,deepseek/deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-23,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-23,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-23,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-22,OpenAI,GPT-5.4,gpt-5.4,openai,2.5,15.0,2.5,15.0,2026-03-05,AGREE
+2026-04-22,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-22,DeepSeek,deepseek-chat,deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-22,DeepSeek,deepseek-chat,deepseek/deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-22,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-22,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-22,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-21,OpenAI,GPT-5.4,gpt-5.4,openai,2.5,15.0,2.5,15.0,2026-03-05,AGREE
+2026-04-21,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-21,DeepSeek,deepseek-chat,deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-21,DeepSeek,deepseek-chat,deepseek/deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-21,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-21,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-21,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-20,OpenAI,GPT-5.4,gpt-5.4,openai,2.5,15.0,2.5,15.0,2026-03-05,AGREE
+2026-04-20,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-20,DeepSeek,deepseek-chat,deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-20,DeepSeek,deepseek-chat,deepseek/deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-20,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-20,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-20,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-19,OpenAI,GPT-5.4,gpt-5.4,openai,2.5,15.0,2.5,15.0,2026-03-05,AGREE
+2026-04-19,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-19,DeepSeek,deepseek-chat,deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-19,DeepSeek,deepseek-chat,deepseek/deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-19,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-19,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-19,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-18,OpenAI,GPT-5.4,gpt-5.4,openai,2.5,15.0,2.5,15.0,2026-03-05,AGREE
+2026-04-18,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-18,DeepSeek,deepseek-chat,deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-18,DeepSeek,deepseek-chat,deepseek/deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-18,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-18,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-18,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-17,OpenAI,GPT-5.4,gpt-5.4,openai,2.5,15.0,2.5,15.0,2026-03-05,AGREE
+2026-04-17,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-17,DeepSeek,deepseek-chat,deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-17,DeepSeek,deepseek-chat,deepseek/deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-17,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-17,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-17,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-16,OpenAI,GPT-5.4,gpt-5.4,openai,2.5,15.0,2.5,15.0,2026-03-05,AGREE
+2026-04-16,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-16,DeepSeek,deepseek-chat,deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-16,DeepSeek,deepseek-chat,deepseek/deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-16,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-16,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-16,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-15,OpenAI,GPT-5.4,gpt-5.4,openai,2.5,15.0,2.5,15.0,2026-03-05,AGREE
+2026-04-15,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-15,DeepSeek,deepseek-chat,deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-15,DeepSeek,deepseek-chat,deepseek/deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-15,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-15,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-15,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-14,OpenAI,GPT-5.4,gpt-5.4,openai,2.5,15.0,2.5,15.0,2026-03-05,AGREE
+2026-04-14,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-14,DeepSeek,deepseek-chat,deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-14,DeepSeek,deepseek-chat,deepseek/deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-14,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-14,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-14,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-13,OpenAI,GPT-5.4,gpt-5.4,openai,2.5,15.0,2.5,15.0,2026-03-05,AGREE
+2026-04-13,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-13,DeepSeek,deepseek-chat,deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-13,DeepSeek,deepseek-chat,deepseek/deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-13,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-13,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-13,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-12,OpenAI,GPT-5.4,gpt-5.4,openai,2.5,15.0,2.5,15.0,2026-03-05,AGREE
+2026-04-12,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-12,DeepSeek,deepseek-chat,deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-12,DeepSeek,deepseek-chat,deepseek/deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-12,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-12,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-12,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-11,OpenAI,GPT-5.4,gpt-5.4,openai,2.5,15.0,2.5,15.0,2026-03-05,AGREE
+2026-04-11,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-11,DeepSeek,deepseek-chat,deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-11,DeepSeek,deepseek-chat,deepseek/deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-11,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-11,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-11,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-10,OpenAI,GPT-5.4,gpt-5.4,openai,2.5,15.0,2.5,15.0,2026-03-05,AGREE
+2026-04-10,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-10,DeepSeek,deepseek-chat,deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-10,DeepSeek,deepseek-chat,deepseek/deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-10,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-10,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-10,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-09,OpenAI,GPT-5.4,gpt-5.4,openai,2.5,15.0,2.5,15.0,2026-03-05,AGREE
+2026-04-09,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-09,DeepSeek,deepseek-chat,deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-09,DeepSeek,deepseek-chat,deepseek/deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-09,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-09,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-09,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-08,OpenAI,GPT-5.4,gpt-5.4,openai,2.5,15.0,2.5,15.0,2026-03-05,AGREE
+2026-04-08,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-08,DeepSeek,deepseek-chat,deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-08,DeepSeek,deepseek-chat,deepseek/deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-08,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-08,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-08,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-07,OpenAI,GPT-5.4,gpt-5.4,openai,2.5,15.0,2.5,15.0,2026-03-05,AGREE
+2026-04-07,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-07,DeepSeek,deepseek-chat,deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-07,DeepSeek,deepseek-chat,deepseek/deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-07,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-07,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-07,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-06,OpenAI,GPT-5.4,gpt-5.4,openai,2.5,15.0,2.5,15.0,2026-03-05,AGREE
+2026-04-06,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-06,DeepSeek,deepseek-chat,deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-06,DeepSeek,deepseek-chat,deepseek/deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-06,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-06,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-06,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-05,OpenAI,GPT-5.4,gpt-5.4,openai,2.5,15.0,2.5,15.0,2026-03-05,AGREE
+2026-04-05,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-05,DeepSeek,deepseek-chat,deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-05,DeepSeek,deepseek-chat,deepseek/deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-05,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-05,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-05,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-04,OpenAI,GPT-5.4,gpt-5.4,openai,2.5,15.0,2.5,15.0,2026-03-05,AGREE
+2026-04-04,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-04,DeepSeek,deepseek-chat,deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-04,DeepSeek,deepseek-chat,deepseek/deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-04,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-04,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-04,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-03,OpenAI,GPT-5.4,gpt-5.4,openai,2.5,15.0,2.5,15.0,2026-03-05,AGREE
+2026-04-03,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-03,DeepSeek,deepseek-chat,deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-03,DeepSeek,deepseek-chat,deepseek/deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-03,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-03,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-03,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-03,OpenAI,GPT-5.4,gpt-5.4,openai,2.5,15.0,2.5,15.0,2026-03-05,AGREE
+2026-04-03,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-03,DeepSeek,deepseek-chat,deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-03,DeepSeek,deepseek-chat,deepseek/deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-03,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-03,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-03,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-02,OpenAI,GPT-5.4,gpt-5.4,openai,2.5,15.0,2.5,15.0,2026-03-05,AGREE
+2026-04-02,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-02,DeepSeek,deepseek-chat,deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-02,DeepSeek,deepseek-chat,deepseek/deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-02,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-02,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-02,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-04-01,OpenAI,GPT-5.4,gpt-5.4,openai,2.5,15.0,2.5,15.0,2026-03-05,AGREE
+2026-04-01,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-04-01,DeepSeek,deepseek-chat,deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-01,DeepSeek,deepseek-chat,deepseek/deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-04-01,Together AI / Z AI,GLM-5,zai/glm-5,zai,1.0,3.2,1.0,3.2,2026-03-03,AGREE
+2026-04-01,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-04-01,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-03-19,OpenAI,GPT-5.4,gpt-5.4,openai,2.5,15.0,2.5,15.0,2026-03-05,AGREE
+2026-03-19,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-03-19,DeepSeek,deepseek-chat,deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-03-19,DeepSeek,deepseek-chat,deepseek/deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-03-19,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-03-19,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE
+2026-03-19,OpenAI,GPT-5.4,gpt-5.4,openai,2.5,15.0,2.5,15.0,2026-03-05,AGREE
+2026-03-19,Google,Gemini 2.5 Pro,gemini/gemini-2.5-pro,gemini,1.25,10.0,1.25,10.0,2026-01-13,AGREE
+2026-03-19,DeepSeek,deepseek-chat,deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-03-19,DeepSeek,deepseek-chat,deepseek/deepseek-chat,deepseek,0.27,1.1,0.28,0.42,2026-01-13,DISAGREE
+2026-03-19,MiniMax,MiniMax-M2.5,minimax/MiniMax-M2.5,minimax,2.1,8.4,0.3,1.2,2026-02-12,DISAGREE
+2026-03-19,xAI,grok-4.20-beta-0309-reasoning,xai/grok-4.20-beta-0309-reasoning,xai,2.0,6.0,2.0,6.0,2026-03-18,AGREE

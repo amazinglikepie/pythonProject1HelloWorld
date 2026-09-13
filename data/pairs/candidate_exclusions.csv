@@ -1,0 +1,143 @@
+bloc,provider,key,reason
+US,openai,azure/o3-mini-2025-01-31,dated variant of 'o3-mini'
+US,openai,chatgpt-4o-latest,context-length tier or duplicate spelling of 'gpt-4o'
+US,anthropic,claude-4-opus-20250514,context-length tier or duplicate spelling of 'claude-opus-4-20250514'
+US,anthropic,claude-4-sonnet-20250514,context-length tier or duplicate spelling of 'claude-sonnet-4-20250514'
+US,anthropic,claude-instant-1,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,anthropic,claude-instant-1.2,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,anthropic,claude-opus-4-1-20250805,dated variant of 'claude-opus-4-1'
+CN,dashscope,dashscope/qwen-coder,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+CN,dashscope,dashscope/qwen-flash,no price in catalog at end of timeline
+CN,dashscope,dashscope/qwen-flash-2025-07-28,no price in catalog at end of timeline
+CN,dashscope,dashscope/qwen-plus-2025-01-25,dated variant of 'qwen-plus'
+CN,dashscope,dashscope/qwen-plus-2025-04-28,dated variant of 'qwen-plus'
+CN,dashscope,dashscope/qwen-plus-2025-07-14,dated variant of 'qwen-plus'
+CN,dashscope,dashscope/qwen-plus-2025-07-28,no price in catalog at end of timeline
+CN,dashscope,dashscope/qwen-plus-2025-09-11,no price in catalog at end of timeline
+CN,dashscope,dashscope/qwen-plus-latest,no price in catalog at end of timeline
+CN,dashscope,dashscope/qwen-turbo-2024-11-01,dated variant of 'qwen-turbo'
+CN,dashscope,dashscope/qwen-turbo-2025-04-28,dated variant of 'qwen-turbo'
+CN,dashscope,dashscope/qwen-turbo-latest,'-latest' alias of 'qwen-turbo'
+CN,dashscope,dashscope/qwen3-30b-a3b,no price in catalog at end of timeline
+CN,dashscope,dashscope/qwen3-coder-flash,no price in catalog at end of timeline
+CN,dashscope,dashscope/qwen3-coder-flash-2025-07-28,no price in catalog at end of timeline
+CN,dashscope,dashscope/qwen3-coder-plus,no price in catalog at end of timeline
+CN,dashscope,dashscope/qwen3-coder-plus-2025-07-22,no price in catalog at end of timeline
+CN,dashscope,dashscope/qwen3-max-preview,no price in catalog at end of timeline
+CN,deepseek,deepseek/deepseek-coder,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,gemini,gemini/gemini-1.5-flash-001,context-length tier or duplicate spelling of 'gemini-1.5-flash-latest'
+US,gemini,gemini/gemini-1.5-flash-002,context-length tier or duplicate spelling of 'gemini-1.5-flash-latest'
+US,gemini,gemini/gemini-1.5-flash-8b,"free/experimental ($0) entry, not a list price"
+US,gemini,gemini/gemini-1.5-flash-8b-exp-0827,"free/experimental ($0) entry, not a list price"
+US,gemini,gemini/gemini-1.5-flash-8b-exp-0924,"free/experimental ($0) entry, not a list price"
+US,gemini,gemini/gemini-1.5-flash-exp-0827,"free/experimental ($0) entry, not a list price"
+US,gemini,gemini/gemini-1.5-pro-001,context-length tier or duplicate spelling of 'gemini-1.5-pro'
+US,gemini,gemini/gemini-1.5-pro-002,context-length tier or duplicate spelling of 'gemini-1.5-pro'
+US,gemini,gemini/gemini-1.5-pro-exp-0801,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,gemini,gemini/gemini-1.5-pro-exp-0827,"free/experimental ($0) entry, not a list price"
+US,gemini,gemini/gemini-1.5-pro-latest,'-latest' alias of 'gemini-1.5-pro'
+US,gemini,gemini/gemini-2.0-flash-001,context-length tier or duplicate spelling of 'gemini-2.0-flash'
+US,gemini,gemini/gemini-2.0-flash-exp,"free/experimental ($0) entry, not a list price"
+US,gemini,gemini/gemini-2.0-flash-lite-preview-02-05,context-length tier or duplicate spelling of 'gemini-2.0-flash-lite'
+US,gemini,gemini/gemini-2.0-flash-thinking-exp,"free/experimental ($0) entry, not a list price"
+US,gemini,gemini/gemini-2.0-pro-exp-02-05,"free/experimental ($0) entry, not a list price"
+US,gemini,gemini/gemini-2.5-flash-lite-preview-06-17,context-length tier or duplicate spelling of 'gemini-2.5-flash-lite'
+US,gemini,gemini/gemini-2.5-pro-preview-tts,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,gemini,gemini/gemini-exp-1114,"free/experimental ($0) entry, not a list price"
+US,gemini,gemini/gemini-exp-1206,"free/experimental ($0) entry, not a list price"
+US,gemini,gemini/gemini-gemma-2-27b-it,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,gemini,gemini/gemini-gemma-2-9b-it,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,openai,gpt-3.5-turbo-0125,dated variant of 'gpt-3.5-turbo'
+US,openai,gpt-3.5-turbo-0301,dated variant of 'gpt-3.5-turbo'
+US,openai,gpt-3.5-turbo-0613,dated variant of 'gpt-3.5-turbo'
+US,openai,gpt-3.5-turbo-1106,dated variant of 'gpt-3.5-turbo'
+US,openai,gpt-3.5-turbo-16k-0613,context-length tier or duplicate spelling of 'gpt-3.5-turbo'
+US,openai,gpt-4-0125-preview,context-length tier or duplicate spelling of 'gpt-4-turbo'
+US,openai,gpt-4-1106-preview,context-length tier or duplicate spelling of 'gpt-4-turbo'
+US,openai,gpt-4-1106-vision-preview,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,openai,gpt-4-32k,context-length tier or duplicate spelling of 'gpt-4-0314'
+US,openai,gpt-4-32k-0314,dated variant of 'gpt-4-32k'
+US,openai,gpt-4-32k-0613,dated variant of 'gpt-4-32k'
+US,openai,gpt-4-turbo-2024-04-09,dated variant of 'gpt-4-turbo'
+US,openai,gpt-4-turbo-preview,context-length tier or duplicate spelling of 'gpt-4-turbo'
+US,openai,gpt-4-vision-preview,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,openai,gpt-4.1-2025-04-14,dated variant of 'gpt-4.1'
+US,openai,gpt-4.1-mini-2025-04-14,dated variant of 'gpt-4.1-mini'
+US,openai,gpt-4.1-nano-2025-04-14,dated variant of 'gpt-4.1-nano'
+US,openai,gpt-4.5-preview-2025-02-27,dated variant of 'gpt-4.5-preview'
+US,openai,gpt-4o-2024-05-13,dated variant of 'gpt-4o'
+US,openai,gpt-4o-2024-08-06,dated variant of 'gpt-4o'
+US,openai,gpt-4o-2024-11-20,dated variant of 'gpt-4o'
+US,openai,gpt-4o-audio-preview,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,openai,gpt-4o-audio-preview-2024-10-01,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,openai,gpt-4o-audio-preview-2024-12-17,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,openai,gpt-4o-audio-preview-2025-06-03,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,openai,gpt-4o-mini-2024-07-18,dated variant of 'gpt-4o-mini'
+US,openai,gpt-4o-mini-audio-preview,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,openai,gpt-4o-mini-audio-preview-2024-12-17,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,openai,gpt-4o-mini-realtime-preview,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,openai,gpt-4o-mini-realtime-preview-2024-12-17,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,openai,gpt-4o-mini-search-preview,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,openai,gpt-4o-mini-search-preview-2025-03-11,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,openai,gpt-4o-realtime-preview,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,openai,gpt-4o-realtime-preview-2024-10-01,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,openai,gpt-4o-realtime-preview-2024-12-17,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,openai,gpt-4o-realtime-preview-2025-06-03,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,openai,gpt-4o-search-preview,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,openai,gpt-4o-search-preview-2025-03-11,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,openai,gpt-5-2025-08-07,dated variant of 'gpt-5'
+US,openai,gpt-5-chat-latest,'-latest' alias of 'gpt-5-chat'
+US,openai,gpt-5-mini-2025-08-07,dated variant of 'gpt-5-mini'
+US,openai,gpt-5-nano-2025-08-07,dated variant of 'gpt-5-nano'
+US,openai,gpt-realtime,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,openai,gpt-realtime-2025-08-28,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+CN,moonshot,moonshot/kimi-latest,context-length tier or duplicate spelling of 'kimi-latest-128k'
+CN,moonshot,moonshot/kimi-latest-32k,context-length tier or duplicate spelling of 'kimi-latest-128k'
+CN,moonshot,moonshot/kimi-latest-8k,context-length tier or duplicate spelling of 'kimi-latest-128k'
+CN,moonshot,moonshot/kimi-thinking-preview,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+CN,moonshot,moonshot/moonshot-v1-128k-0430,dated variant of 'moonshot-v1-128k'
+CN,moonshot,moonshot/moonshot-v1-128k-vision-preview,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+CN,moonshot,moonshot/moonshot-v1-32k,context-length tier or duplicate spelling of 'moonshot-v1-128k'
+CN,moonshot,moonshot/moonshot-v1-32k-0430,dated variant of 'moonshot-v1-32k'
+CN,moonshot,moonshot/moonshot-v1-32k-vision-preview,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+CN,moonshot,moonshot/moonshot-v1-8k,context-length tier or duplicate spelling of 'moonshot-v1-128k'
+CN,moonshot,moonshot/moonshot-v1-8k-0430,dated variant of 'moonshot-v1-8k'
+CN,moonshot,moonshot/moonshot-v1-8k-vision-preview,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+CN,moonshot,moonshot/moonshot-v1-auto,context-length tier or duplicate spelling of 'moonshot-v1-128k'
+US,openai,o1-2024-12-17,dated variant of 'o1'
+US,openai,o1-mini-2024-09-12,dated variant of 'o1-mini'
+US,openai,o1-preview-2024-09-12,dated variant of 'o1-preview'
+US,openai,o1-pro-2025-03-19,dated variant of 'o1-pro'
+US,openai,o3-2025-04-16,dated variant of 'o3'
+US,openai,o3-deep-research,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,openai,o3-deep-research-2025-06-26,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,openai,o3-mini-2025-01-31,dated variant of 'o3-mini'
+US,openai,o3-pro-2025-06-10,dated variant of 'o3-pro'
+US,openai,o4-mini-2025-04-16,dated variant of 'o4-mini'
+US,openai,o4-mini-deep-research,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,openai,o4-mini-deep-research-2025-06-26,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,perplexity,perplexity/sonar-deep-research,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,perplexity,perplexity/sonar-medium-chat,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,perplexity,perplexity/sonar-medium-online,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,perplexity,perplexity/sonar-small-chat,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,perplexity,perplexity/sonar-small-online,variant excluded by rule (fine-tune/audio/realtime/vision/search/research/experimental/open-weight-free/resold model)
+US,xai,xai/grok-2-1212,dated variant of 'grok-2'
+US,xai,xai/grok-2-latest,'-latest' alias of 'grok-2'
+US,xai,xai/grok-2-vision,context-length tier or duplicate spelling of 'grok-2'
+US,xai,xai/grok-2-vision-1212,dated variant of 'grok-2-vision'
+US,xai,xai/grok-2-vision-latest,'-latest' alias of 'grok-2-vision'
+US,xai,xai/grok-3-beta,'-beta' alias of 'grok-3'
+US,xai,xai/grok-3-fast-beta,"xAI 'fast' tier (same model, higher price tier)"
+US,xai,xai/grok-3-fast-latest,"xAI 'fast' tier (same model, higher price tier)"
+US,xai,xai/grok-3-latest,'-latest' alias of 'grok-3'
+US,xai,xai/grok-3-mini-beta,'-beta' alias of 'grok-3-mini'
+US,xai,xai/grok-3-mini-fast,"xAI 'fast' tier (same model, higher price tier)"
+US,xai,xai/grok-3-mini-fast-beta,'-beta' alias of 'grok-3-mini-fast'
+US,xai,xai/grok-3-mini-fast-latest,'-latest' alias of 'grok-3-mini-fast'
+US,xai,xai/grok-3-mini-latest,'-latest' alias of 'grok-3-mini'
+US,xai,xai/grok-4-0709,dated variant of 'grok-4'
+US,xai,xai/grok-4-latest,'-latest' alias of 'grok-4'
+US,xai,xai/grok-code-fast,"xAI 'fast' tier (same model, higher price tier)"
+US,xai,xai/grok-code-fast-1-0825,dated variant of 'grok-code-fast-1'
+US,xai,xai/grok-vision-beta,context-length tier or duplicate spelling of 'grok-beta'
+CN,deepseek,deepseek/deepseek-chat,same model as 'deepseek-chat' (shorter timeline)

@@ -1,0 +1,14 @@
+ref_source,ref_model,ref_day,ref_old,ref_new,litellm_key,litellm_change_day,litellm_old,litellm_new,lag_days_litellm_minus_ref,matched,litellm_has_any_change
+qiu_curation,deepseek-v4-pro,2026-05-20,"('1.74', '3.48')","('0.435', '0.87')",deepseek-v4-pro,2026-08-19,"(0.435, 0.87)","(1.32, 3.96)",91,1,1
+qiu_curation,MiniMax-M3,2026-08-17,"('2.1', '8.4')","('0.3', '1.2')",minimax/MiniMax-M3,2026-06-10,"(0.6, 2.4)","(0.3, 1.2)",-68,1,1
+qiu_curation,qwen3.7-max,2026-08-17,"('2.5', '7.5')","('1.25', '3.75')",,,,,,1,0
+qiu_curation,GPT-5.6 Terra (<272K context),2026-08-17,"('2.5', '15.0')","('2.0', '12.0')",gpt-5.6-terra,2026-07-31,"(2.5, 15.0)","(2.0, 12.0)",-17,1,1
+qiu_curation,GPT-5.6 Luna (<272K context),2026-08-17,"('1.0', '6.0')","('0.2', '1.2')",gpt-5.6-luna,2026-07-31,"(1.0, 6.0)","(0.2, 1.2)",-17,1,1
+modelpricewatch_verified,DeepSeek V4 Flash,2026-08-16,"('0.14', '0.28')","('0.44', '1.32')",deepseek-v4-flash,2026-08-19,"(0.14, 0.28)","(0.44, 1.32)",3,1,1
+modelpricewatch_verified,DeepSeek V4 Pro,2026-08-16,"('0.435', '0.87')","('1.32', '3.96')",deepseek-v4-pro,2026-08-19,"(0.435, 0.87)","(1.32, 3.96)",3,1,1
+modelpricewatch_verified,Gemini 2.5 Flash,2026-07-04,"('0.075', '0.3')","('0.3', '2.5')",,,,,,1,0
+modelpricewatch_verified,Gemini 3.6 Flash,2026-08-13,"('1.5', '7.5')","('0.75', '3.75')",gemini/gemini-3.6-flash,2026-08-17,"(1.5, 7.5)","(0.75, 3.75)",4,1,1
+modelpricewatch_verified,GPT-5.6 Luna,2026-08-01,"('1.0', '6.0')","('0.2', '1.2')",gpt-5.6-luna,2026-07-31,"(1.0, 6.0)","(0.2, 1.2)",-1,1,1
+modelpricewatch_verified,GPT-5.6 Sol,2026-08-21,"('5.0', '30.0')","('4.0', '20.0')",gpt-5.6-sol,2026-08-22,"(5.0, 30.0)","(4.0, 20.0)",1,1,1
+modelpricewatch_verified,GPT-5.6 Terra,2026-08-01,"('2.5', '15.0')","('2.0', '12.0')",gpt-5.6-terra,2026-07-31,"(2.5, 15.0)","(2.0, 12.0)",-1,1,1
+modelpricewatch_verified,GLM-5.3-Flash,2026-09-09,"('0.075', '0.25')","('0.15', '0.5')",,,,,,1,0

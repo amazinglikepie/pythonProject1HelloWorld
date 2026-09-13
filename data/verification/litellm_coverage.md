@@ -2,8 +2,9 @@
 
 - Last sampled day: 2026-09-13
 
-- **CN** chat-mode entries: 193; span >= 365 d: 44; span >= 365 and >= 1 price change: 13; still listed (not removed) with span >= 365: 44; total price-change events: 24; earliest first_day: 2024-05-07
-- **US** chat-mode entries: 428; span >= 365 d: 192; span >= 365 and >= 1 price change: 45; still listed (not removed) with span >= 365: 132; total price-change events: 96; earliest first_day: 2023-09-06
+- **CN** chat-mode entries: 172; span >= 365 d: 44; span >= 365 and >= 1 price change: 13; still listed (not removed) with span >= 365: 44; total price-change events: 24; earliest first_day: 2024-05-07
+- **US** chat-mode entries: 357; span >= 365 d: 192; span >= 365 and >= 1 price change: 45; still listed (not removed) with span >= 365: 132; total price-change events: 85; earliest first_day: 2023-09-06
+- **RESALE_UNDER_VENDOR** chat-mode entries: 92; span >= 365 d: 0; span >= 365 and >= 1 price change: 0; still listed (not removed) with span >= 365: 0; total price-change events: 11; earliest first_day: 2023-10-20
 - **HOST_US** chat-mode entries: 1616; span >= 365 d: 594; span >= 365 and >= 1 price change: 137; still listed (not removed) with span >= 365: 520; total price-change events: 421; earliest first_day: 2023-10-10
 - **HOST** chat-mode entries: 809; span >= 365 d: 213; span >= 365 and >= 1 price change: 30; still listed (not removed) with span >= 365: 180; total price-change events: 219; earliest first_day: 2023-09-20
 - **NEITHER** chat-mode entries: 86; span >= 365 d: 44; span >= 365 and >= 1 price change: 14; still listed (not removed) with span >= 365: 44; total price-change events: 35; earliest first_day: 2023-09-06
@@ -259,8 +260,8 @@
 - US 2024 increase_or_mixed: 13
 - US 2025 cut: 6
 - US 2025 increase_or_mixed: 7
-- US 2026 cut: 32
-- US 2026 increase_or_mixed: 27
+- US 2026 cut: 31
+- US 2026 increase_or_mixed: 17
 
 ## Providers seen but not in the bloc map (treated as OTHER)
 - ['', 'agentcore', 'aiml', 'aleph_alpha', 'amazon-nova', 'anyscale', 'apiserpent', 'assemblyai', 'aws_polly', 'baseten', 'bedrock_mantle', 'bing_grounding', 'black_forest_labs', 'cerebras', 'chatgpt', 'cloudflare', 'codestral', 'cognition', 'cohere_chat', 'crusoe', 'darkbloom', 'dataforseo', 'deepgram', 'duckduckgo', 'elevenlabs', 'exa_ai', 'fal_ai', 'featherless_ai', 'firecrawl', 'fireworks_ai-embedding-models', 'friendliai', 'gigachat', 'github_copilot', 'google_pse', 'gradient_ai', 'heroku', 'inception', 'jina_ai', 'lemonade', 'libertai', 'linkup', 'llamagate', 'meta', 'meta_llama', 'morph', 'nimble', 'nlp_cloud', 'nscale', 'nvidia_nim', 'oci', 'ollama', 'ovhcloud', 'palm', 'parallel_ai', 'pinstripes', 'publicai', 'recraft', 'reducto', 'replicate', 'runwayml', 'sagemaker', 'sarvam', 'scaleway', 'scx-ai', 'searxng', 'serper', 'snowflake', 'soniox', 'stability', 'tavily', 'tencent', 'tensormesh', 'text-completion-codestral', 'text-completion-inception', 'text-completion-openai', 'tinyfish', 'v0', 'vertex_ai-ai21_models', 'vertex_ai-chat-models', 'vertex_ai-code-chat-models', 'vertex_ai-code-text-models', 'vertex_ai-deepseek_models', 'vertex_ai-image-models', 'vertex_ai-llama_models', 'vertex_ai-minimax_models', 'vertex_ai-moonshot_models', 'vertex_ai-openai_models', 'vertex_ai-qwen_models', 'vertex_ai-text-models', 'vertex_ai-video-models', 'vertex_ai-vision-models', 'vertex_ai-zai_models', 'voyage', 'wandb', 'watsonx', 'you_com']

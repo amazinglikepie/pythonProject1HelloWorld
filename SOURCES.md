@@ -50,3 +50,17 @@ https://platform.minimax.io/docs/guides/pricing-paygo.md ; https://www.alibabacl
 Candidate substitute datasets that appeared in those results and were **not accessed**:
 https://github.com/simonw/llm-prices , https://github.com/pydantic/genai-prices , https://github.com/tekacs/llm-pricing ,
 https://github.com/latitude-dev/llm-pricing , https://github.com/wordenneapolitan768/llm-pricing
+
+## Added at checkpoint 2 (2026-09-13)
+
+| Source | URL | Status | What was obtained |
+|---|---|---|---|
+| modelpricewatch.com API (proposed by the user) | https://modelpricewatch.com/api/v1/models.json , https://modelpricewatch.com/api/v1/price-history.json , docs https://modelpricewatch.com/api/ | Blocked (proxy 403 on curl and WebFetch, ~07:00 UTC) | nothing directly |
+| modelpricewatch.com data repository | https://github.com/romanshumy/llm-prices-data | **Obtained** via anonymous git clone ~07:01 UTC; HEAD `9ec36197e7ad13cbef4754eb6373cb55f9234702`; licence CC-BY-4.0 (attribution: modelpricewatch.com) | `price-history.json`, `models.json`, `providers.json`, `CHANGELOG.md`, `llm-price-index.csv`; see `data/raw/modelpricewatch/` |
+| LiteLLM price catalog at a cited commit (verification test only) | https://raw.githubusercontent.com/BerriAI/litellm/41436fefa0/model_prices_and_context_window.json | **Obtained** (HTTP 200) | one file, used to verify one reconstructed point; not used as data |
+| Artificial Analysis chart exports | https://artificialanalysis.ai/models | Paywalled (reported by the user) | nothing |
+| Gradually, pricepertoken | (as above) | No export exists (reported by the user) | nothing |
+
+Web searches run: "modelpricewatch.com API v1 LLM model pricing history endpoints documentation" and
+"modelpricewatch price-history.json github romanshumy llm-prices-data" (~07:00 UTC), used to locate the API file
+names and the data repository.

@@ -1,0 +1,291 @@
+# Changelog — model launches & price changes
+
+Newest first. Generated from the tracker's change detection; every price
+links back to the provider's official pricing page on the site.
+
+A **data correction** is our own published figure being fixed — the provider
+did not re-price. It is listed here for the record, not as a market move.
+
+
+## 2026-09-11
+
+- **Pixtral 12B** data correction — input $0.10 → $0.15, output $0.10 → $0.15 per 1M tokens
+  - Published $0.10/$0.10 was never a Mistral price: it entered at the 2026-06-25 hand baseline and carried forward for 78 days. Mistral's own pricing page lists Pixtral 12B (api endpoint pixtral-12b) at $0.15 in / $0.15 out under Open models in every archived capture read from 2025-05-25 through 2025-12-31 - the last capture before the SKU was retired from the Mistral API on 2025-12-31 still prints $0.15/$0.15, so $0.15/$0.15 is the archival last first-party rate. Corroborated three ways: LiteLLM's DATED mistral/pixtral-12b-2409 entry carries $0.15/$0.15 with deprecation_date 2025-12-31 == our retired_on; the Vercel AI Gateway pass-through (vercel_ai_gateway/mistral/pixtral-12b) carries $0.15/$0.15; and this row's own litellm-archive backfill points (2024-10-03 and 2026-06-23) both read $0.15/$0.15, i.e. the reference catalog never carried $0.10 either. Positive control on the same captures: the sibling Pixtral Large row reads $2/$6, exactly what we already publish. Data correction, not a market move - Mistral did not raise this price on 2026-09-11; the SKU has been retired since 2025-12-31. Supersedes the wrong baseline and carried-forward span.
+- **Qwen3.7-Max** price change — input $1.25 → $2.00, output $3.75 → $6.00, cached input $0.13 → $0.25 per 1M tokens
+- **Solar Pro 4** price change — input $0.03 → $0.09, output $0.12 → $0.36, cached input $0.006 → $0.018 per 1M tokens
+- **Mercury Edit 2** (Inception) launched — $0.25 in / $0.75 out per 1M tokens
+- **Fugu Max** (Sakana AI) launched — $2.0 in / $6.0 out per 1M tokens
+
+## 2026-09-10
+
+- **DeepSeek V4.1 Flash** (DeepSeek) launched — $0.3 in / $1.2 out per 1M tokens
+- **GLM-4.5-X** (Z.AI) launched — $2.2 in / $8.9 out per 1M tokens
+- **GLM-4.5-AirX** (Z.AI) launched — $1.1 in / $4.5 out per 1M tokens
+- **GLM-4.5-Flash** (Z.AI) launched — $0.0 in / $0.0 out per 1M tokens
+- **GLM-4.6V-FlashX** (Z.AI) launched — $0.04 in / $0.4 out per 1M tokens
+- **GLM-4.6V-Flash** (Z.AI) launched — $0.0 in / $0.0 out per 1M tokens
+- **GLM-4.5V** (Z.AI) launched — $0.6 in / $1.8 out per 1M tokens
+
+## 2026-09-09
+
+- **GLM-5.3-Flash** price change — input $0.075 → $0.15, output $0.25 → $0.50, cached input $0.015 → $0.03 per 1M tokens
+
+## 2026-09-08
+
+- **Mercury 2.5** (Inception) launched — $0.2 in / $0.75 out per 1M tokens
+
+## 2026-09-06
+
+- **DeepSeek V4 Pro** price change — input $1.74 → $1.32, output $3.48 → $3.96, cached input $0.20 → $0.13 per 1M tokens
+
+## 2026-09-05
+
+- **Claude Opus 4** (Anthropic) launched — $15.0 in / $75.0 out per 1M tokens
+- **Claude Sonnet 4** (Anthropic) launched — $3.0 in / $15.0 out per 1M tokens
+- **GLM-5.3** (Together) launched — $1.4 in / $4.4 out per 1M tokens
+- **Muse Spark 1.3** (Meta) launched — $1.25 in / $4.25 out per 1M tokens
+
+## 2026-09-03
+
+- **Gemini 3.8 Flash** (Google) launched — $0.75 in / $3.75 out per 1M tokens
+- **GPT-6 Astra** (OpenAI) launched — $10.0 in / $50.0 out per 1M tokens
+
+## 2026-09-02
+
+- **Mercury 2** (Inception) launched — $0.25 in / $0.75 out per 1M tokens
+
+## 2026-09-01
+
+- **Claude Fable 5.1** (Anthropic) launched — $10.0 in / $50.0 out per 1M tokens
+- **Claude Mythos 5.1** (Anthropic) launched — $10.0 in / $50.0 out per 1M tokens
+
+## 2026-08-31
+
+- **Voxtral Small 24B** data correction — output $0.30 → $0.40 per 1M tokens
+  - Published $0.10/$0.30 was a 2026-06-25 hand baseline that was never checked against Mistral's API rate card. Mistral's card lists Voxtral Small (voxtral-small-latest) at Text Input $0.10 /M and Output $0.40 /M. Data correction, not a market move: Mistral did not raise this price on 2026-08-31, and we hold no evidence it ever charged $0.30 for output on its own API — $0.30 is what Amazon Bedrock charges for the same model. Supersedes the wrong baseline and its carried-forward span. Root cause: all 15 of our Mistral rows cited https://mistral.ai/pricing/, which is now Mistral's consumer-plan page; the API rate card moved to https://mistral.ai/pricing/api/, so this row's output price could never be re-verified against the page we cited.
+- **DeepSeek V4 Pro** price change — input $1.74 → $1.32, output $3.48 → $3.96, cached input $0.145 → $0.044 per 1M tokens
+- **Qwen3.8-27B** (Alibaba) launched — $0.5 in / $3.0 out per 1M tokens
+- **Muse Glimmer 30B** (Fireworks) launched — $0.35 in / $1.5 out per 1M tokens
+- **Muse Glimmer 30B** (Together) launched — $0.35 in / $1.5 out per 1M tokens
+
+## 2026-08-28
+
+- **GLM-5.3** (Fireworks) launched — $1.4 in / $4.4 out per 1M tokens
+- **Hy4 preview** (Tencent) launched — $0.834 in / $2.501 out per 1M tokens
+
+## 2026-08-27
+
+- **Qwen3.8-Flash** (Alibaba) launched — $0.15 in / $0.47 out per 1M tokens
+- **GLM-5.3-Flash** (Z.AI) launched — $0.075 in / $0.25 out per 1M tokens
+
+## 2026-08-25
+
+- **GPT-5** (OpenAI) launched — $1.25 in / $10.0 out per 1M tokens
+- **GPT-5 mini** (OpenAI) launched — $0.25 in / $2.0 out per 1M tokens
+- **GPT-5 nano** (OpenAI) launched — $0.05 in / $0.4 out per 1M tokens
+- **GPT-5 Pro** (OpenAI) launched — $15.0 in / $120.0 out per 1M tokens
+- **o3** (OpenAI) launched — $2.0 in / $8.0 out per 1M tokens
+- **o3-pro** (OpenAI) launched — $20.0 in / $80.0 out per 1M tokens
+
+## 2026-08-24
+
+- **GPT-4o** (OpenAI) launched — $2.5 in / $10.0 out per 1M tokens
+- **GPT-4o mini** (OpenAI) launched — $0.15 in / $0.6 out per 1M tokens
+- **GPT-5.1** (OpenAI) launched — $1.25 in / $10.0 out per 1M tokens
+- **GPT-3.5 Turbo** (OpenAI) launched — $0.5 in / $1.5 out per 1M tokens
+- **GPT-4** (OpenAI) launched — $30.0 in / $60.0 out per 1M tokens
+- **GPT-4 Turbo** (OpenAI) launched — $10.0 in / $30.0 out per 1M tokens
+- **o1** (OpenAI) launched — $15.0 in / $60.0 out per 1M tokens
+- **o1-pro** (OpenAI) launched — $150.0 in / $600.0 out per 1M tokens
+
+## 2026-08-21
+
+- **GPT-5.6 Sol** price change — input $5.00 → $4.00, output $30.00 → $20.00, cached input $0.50 → $0.40 per 1M tokens
+- **DeepSeek V4 Flash Vision Exp** (DeepSeek) launched — $0.44 in / $1.32 out per 1M tokens
+
+## 2026-08-20
+
+- **Hy-MT2 30B-A3B** (Tencent) launched — $0.074 in / $0.295 out per 1M tokens
+- **Hy-MT2 1.8B** (Tencent) launched — $0.044 in / $0.177 out per 1M tokens
+
+## 2026-08-18
+
+- **GLM-5.3** (Z.AI) launched — $1.4 in / $4.4 out per 1M tokens
+
+## 2026-08-17
+
+- **Qwen3.5-Plus** (Alibaba) launched — $0.4 in / $2.4 out per 1M tokens
+- **Qwen3.5-Flash** (Alibaba) launched — $0.1 in / $0.4 out per 1M tokens
+- **Qwen3.5-122B-A10B** (Alibaba) launched — $0.4 in / $3.2 out per 1M tokens
+- **Qwen3.5-27B** (Alibaba) launched — $0.3 in / $2.4 out per 1M tokens
+- **Qwen3.5-35B-A3B** (Alibaba) launched — $0.25 in / $2.0 out per 1M tokens
+- **Qwen3-Coder-Next** (Alibaba) launched — $0.3 in / $1.5 out per 1M tokens
+- **GPT-Realtime-2.1** (OpenAI) launched — $4.0 in / $24.0 out per 1M tokens
+- **GPT-Realtime-2.1 mini** (OpenAI) launched — $0.6 in / $2.4 out per 1M tokens
+- **GPT-Audio-1.5** (OpenAI) launched — $2.5 in / $10.0 out per 1M tokens
+- **NVIDIA Nemotron 3.5 Lightning** (DeepInfra) launched — $0.08 in / $0.2 out per 1M tokens
+- **GPT-5.6 Cyber** (OpenAI) launched — $12.5 in / $75.0 out per 1M tokens
+
+## 2026-08-16
+
+- **DeepSeek V4 Flash** price change — input $0.14 → $0.44, output $0.28 → $1.32, cached input $0.0028 → $0.014 per 1M tokens
+- **DeepSeek V4 Pro** price change — input $0.435 → $1.32, output $0.87 → $3.96, cached input $0.0036 → $0.044 per 1M tokens
+
+## 2026-08-15
+
+- **Qwen3.8-2.4T-A95B** (Alibaba) launched — $2.0 in / $6.0 out per 1M tokens
+
+## 2026-08-14
+
+- **Granite 4 H Small** data correction — input $0.06 → $0.0636, output $0.25 → $0.265 per 1M tokens
+  - Published $0.06/$0.25 was never IBM's printed price: it traces to a 2025-10-20 litellm-archive backfill (confidence: reconstructed) and was never read off IBM. IBM's watsonx.ai rate card — this row's own pricing_url, and its own committed 2026-08-09 receipt — prints granite-4h-small at USD 0.0636 per 1M tokens input / USD 0.265 output, and printed the same on us-en on 2026-08-14. The 6% gap is IBM's own uniform uplift over round base rates, applied across the whole table (granite-8b-code-instruct USD 0.636, granite-guardian-3-8b USD 0.212, llama-3-3-70b USD 0.7526, mistral-small-3-1 USD 0.106/0.318) — not tax (the footnote excludes taxes and duties) and not country variance (us-en is identical). The sibling row ibm-granite-embedding-278m already publishes the uplifted USD 0.106 off this same table. IBM did not re-price: this is our number being corrected to the rate card, not a market move.
+- **DeepSeek V4 Pro** (DeepInfra) launched — $1.3 in / $2.6 out per 1M tokens
+- **Granite 4 H Large** removed/retired
+- **Granite 4 H Medium** removed/retired
+
+## 2026-08-13
+
+- **Gemini 3.6 Flash** price change — input $1.50 → $0.75, output $7.50 → $3.75 per 1M tokens
+- **Gemini 3.7 Flash** (Google) launched — $0.75 in / $3.75 out per 1M tokens
+
+## 2026-08-12
+
+- **Grok 4.6** (xAI) launched — $2.0 in / $6.0 out per 1M tokens
+
+## 2026-08-11
+
+- **Sakana Namazu** (Sakana AI) launched — $0.95 in / $4.0 out per 1M tokens
+- **Solar Pro 4** (Upstage) launched — $0.03 in / $0.12 out per 1M tokens
+
+## 2026-08-10
+
+- **LFM2.5 8B A1B** (Together) launched — $0.03 in / $0.12 out per 1M tokens
+- **KAT-Coder-Pro V2.5** (Kwaipilot) launched — $0.741 in / $2.964 out per 1M tokens
+- **KAT-Coder-Air V2.5** (Kwaipilot) launched — $0.148 in / $0.593 out per 1M tokens
+
+## 2026-08-08
+
+- **Llama Nemotron Ultra 253B** removed/retired
+
+## 2026-08-07
+
+- **Qwen3.6-Plus** (Alibaba) launched — $0.5 in / $3.0 out per 1M tokens
+- **Qwen3.6-27B** (Alibaba) launched — $0.6 in / $3.6 out per 1M tokens
+- **Qwen3.5-397B-A17B** (Alibaba) launched — $0.6 in / $3.6 out per 1M tokens
+- **Qwen3-32B** (Alibaba) launched — $0.16 in / $0.64 out per 1M tokens
+- **Fugu Ultra** (Sakana AI) launched — $5.0 in / $30.0 out per 1M tokens
+- **Solar Pro 3** (Upstage) launched — $0.15 in / $0.6 out per 1M tokens
+- **Relace Search** (Relace) launched — $1.0 in / $3.0 out per 1M tokens
+- **Relace Apply 3** (Relace) launched — $0.8 in / $1.2 out per 1M tokens
+- **Nemotron 3 Ultra** removed/retired
+
+## 2026-08-06
+
+- **Qwen3.6-Flash** (Alibaba) launched — $0.25 in / $1.5 out per 1M tokens
+- **Qwen3.7-Flash** (Alibaba) launched — $0.03 in / $0.13 out per 1M tokens
+- **Qwen3.7-Plus** (Alibaba) launched — $0.4 in / $1.6 out per 1M tokens
+- **Muse Spark 1.2** (Meta) launched — $1.25 in / $4.25 out per 1M tokens
+
+## 2026-08-03
+
+- **Qwen3.8-Max** (Alibaba) launched — $2.0 in / $6.0 out per 1M tokens
+
+## 2026-08-01
+
+- **GPT-5.6 Terra** price change — input $2.50 → $2.00, output $15.00 → $12.00, cached input $0.25 → $0.20 per 1M tokens
+- **GPT-5.6 Luna** price change — input $1.00 → $0.20, output $6.00 → $1.20, cached input $0.10 → $0.02 per 1M tokens
+- **Gemini 3 Pro Image** (Google) launched — $2.0 in / $120.0 out per 1M tokens
+- **Gemini 3.1 Flash Image** (Google) launched — $0.5 in / $60.0 out per 1M tokens
+- **Gemini 3.1 Flash Lite Image** (Google) launched — $0.25 in / $30.0 out per 1M tokens
+- **Inkling** (Thinking Machines) launched — $1.0 in / $4.05 out per 1M tokens
+- **Inkling Small** (Thinking Machines) launched — $0.3 in / $1.2 out per 1M tokens
+- **Muse Spark 1.1** (Meta) launched — $1.25 in / $4.25 out per 1M tokens
+
+## 2026-07-29
+
+- **Grok 4.20** data correction — input $2.00 → $1.25, output $6.00 → $2.50 per 1M tokens
+  - Published $2.00/$6.00 was grok-4.5's price, not grok-4.20's. xAI's official per-model table (docs.x.ai/docs/pricing, receipt sha 8cea267d7b) lists Grok 4.20 at $1.25 in / $2.50 out (cached $0.20); grok-4.5 is the $2.00/$6.00 SKU. Our prior receipt anchored on developers/models, which renders only grok-4.5's hero price, so a sibling model's number was published on this row. Data correction, not a market move: xAI did not cut Grok 4.20's price on 2026-07-28. Supersedes the wrong baseline+carry-forward span. Corroborated by the docs/models embedded JSON (grok-4.20 12500/25000 per-token = $1.25/$2.50) and OpenRouter x-ai/grok-4.20 ($1.25/$2.50).
+
+## 2026-07-28
+
+- **Qwen-Flash** data correction — input $0.115 → $0.05, output $0.46 → $0.40 per 1M tokens
+  - Published $0.115/$0.46 matched no qwen-flash price in any Alibaba region or tier. Alibaba Model Studio lists qwen-flash International (Singapore) at $0.05 in / $0.40 out for the 0<Token≤256K tier (256K–1M tier bills $0.25/$2.00). Data correction, not a market move: Alibaba did not cut this price on 2026-07-28. Supersedes the wrong baseline+carry-forward span. Root cause: all 6 Alibaba rows cited /model-studio/models, a page carrying no prices, so the row could never be re-verified.
+- **Llama 4 Maverick** data correction — input $0.15 → $0.20, output $0.60 → $0.80 per 1M tokens
+  - Published $0.15/$0.60 was never first-party-substantiated: DeepInfra serves this SKU as 'Llama-4-Maverick-17B-128E' at $0.20/$0.80 (first-party, data/evidence/deepinfra-llama-4-maverick/2026-07-27.txt line 103). The 07-15 and 07-20 'verified' points carried a source capture that never contained the model row, so the $0.15/$0.60 rotted uncaught. Data correction, not a market move: DeepInfra did not raise this price on 2026-07-28. Supersedes the wrong baseline and carried-forward span.
+
+## 2026-07-25
+
+- **Qwen3.7-Max** (Alibaba) launched — $2.5 in / $7.5 out per 1M tokens
+- **Claude Opus 5** (Anthropic) launched — $5.0 in / $25.0 out per 1M tokens
+
+## 2026-07-21
+
+- **Gemini 3.6 Flash** (Google) launched — $1.5 in / $7.5 out per 1M tokens
+- **Gemini 3.5 Flash-Lite** (Google) launched — $0.3 in / $2.5 out per 1M tokens
+
+## 2026-07-19
+
+- **GLM-5.2** price change — cached input $0.26 → $0.14 per 1M tokens
+
+## 2026-07-16
+
+- **Kimi K3** (Moonshot) launched — $3.0 in / $15.0 out per 1M tokens
+
+## 2026-07-10
+
+- **DeepSeek V4 Flash** (DeepInfra) launched — $0.09 in / $0.18 out per 1M tokens
+- **Qwen3-32B** (DeepInfra) launched — $0.08 in / $0.28 out per 1M tokens
+- **Llama 4 Scout** (DeepInfra) launched — $0.1 in / $0.3 out per 1M tokens
+- **Llama 4 Maverick** (DeepInfra) launched — $0.15 in / $0.6 out per 1M tokens
+
+## 2026-07-09
+
+- **GPT-5.6 Sol** (OpenAI) launched — $5.0 in / $30.0 out per 1M tokens
+- **GPT-5.6 Terra** (OpenAI) launched — $2.5 in / $15.0 out per 1M tokens
+- **GPT-5.6 Luna** (OpenAI) launched — $1.0 in / $6.0 out per 1M tokens
+
+## 2026-07-08
+
+- **Grok 4.5** (xAI) launched — $2.0 in / $6.0 out per 1M tokens
+- **GPT-5.2** (OpenAI) launched — $1.75 in / $14.0 out per 1M tokens
+- **GPT-5.2 Pro** (OpenAI) launched — $21.0 in / $168.0 out per 1M tokens
+- **GPT-5.2 Codex** (OpenAI) launched — $1.75 in / $14.0 out per 1M tokens
+- **GPT-5.2 Chat** (OpenAI) launched — $1.75 in / $14.0 out per 1M tokens
+- **Gemini 3 Flash Preview** (Google) launched — $0.5 in / $3.0 out per 1M tokens
+- **Hunyuan Hy3** (Tencent) launched — $0.147 in / $0.588 out per 1M tokens
+
+## 2026-07-06
+
+- **LongCat-2.0** (Meituan) launched — $0.75 in / $2.95 out per 1M tokens
+
+## 2026-07-05
+
+- **Mistral Small 3.2 24B** price change — input $0.08 → $0.10, output $0.20 → $0.30 per 1M tokens
+- **Mixtral 8x7B Instruct** price change — input $0.54 → $0.70, output $0.54 → $0.70 per 1M tokens
+
+## 2026-07-04
+
+- **Gemini 2.5 Flash** price change — input $0.075 → $0.30, output $0.30 → $2.50 per 1M tokens
+- **Gemini 3.1 Pro** price change — cached input newly tracked at $0.20 per 1M tokens
+- **GPT-OSS 120B** price change — output $1.00 → $0.60 per 1M tokens
+- **GPT-OSS 20B** price change — output $1.00 → $0.30 per 1M tokens
+- **Llama 3.1 8B Instant** price change — output $1.00 → $0.08 per 1M tokens
+- **Llama 3.3 70B Versatile** price change — output $1.00 → $0.79 per 1M tokens
+- **Llama 4 Scout** price change — output $1.00 → $0.34 per 1M tokens
+- **Qwen3.6-27B** price change — output $1.00 → $3.00 per 1M tokens
+- **Qwen3-32B** price change — output $1.00 → $0.59 per 1M tokens
+- **GPT-4.1 mini** price change — cached input $0.20 → $0.10 per 1M tokens
+- **GPT-4.1 nano** price change — cached input $0.05 → $0.025 per 1M tokens
+- **o4-mini** price change — cached input $0.55 → $0.275 per 1M tokens
+
+## 2026-07-03
+
+- **GPT-5.5 Pro** (OpenAI) launched — $30.0 in / $180.0 out per 1M tokens
+- **GPT-5.4 Pro** (OpenAI) launched — $30.0 in / $180.0 out per 1M tokens
+- **GPT-5.4 nano** (OpenAI) launched — $0.2 in / $1.25 out per 1M tokens
+- **GPT-5.3 Chat** (OpenAI) launched — $1.75 in / $14.0 out per 1M tokens
+- **GPT-5.3 Codex** (OpenAI) launched — $1.75 in / $14.0 out per 1M tokens
+
+## 2026-06-30
+
+- **Claude Sonnet 5** (Anthropic) launched — $2.0 in / $10.0 out per 1M tokens

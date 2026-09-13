@@ -24,3 +24,27 @@ GitHub Copilot,NEITHER,subscription product; no per-token price
 Cohere,NEITHER,Canada
 Mistral,NEITHER,France
 Sarvam,NEITHER,India
+Alibaba,CN,modelpricewatch provider label; Alibaba Cloud Model Studio international USD price
+DeepSeek,CN,
+Moonshot,CN,modelpricewatch provider label
+Z.AI,CN,Zhipu; modelpricewatch provider label
+01.AI,CN,
+Baichuan,CN,
+Tencent,CN,Hunyuan
+Meituan,CN,LongCat
+Kwaipilot,CN,Kuaishou
+Perplexity,US,
+NVIDIA,US,
+Inception,US,
+Thinking Machines,US,
+Relace,US,
+Voyage AI,US,embeddings vendor
+IBM,US,
+Reka,US,
+Together,HOST_US,US host reselling open-weight models incl. Chinese ones; excluded from CN provider pricing
+Fireworks,HOST_US,US host; excluded from CN provider pricing
+Groq,HOST_US,US host; excluded from CN provider pricing
+DeepInfra,HOST_US,US host; excluded from CN provider pricing
+AI21 Labs,NEITHER,Israel
+Sakana AI,NEITHER,Japan
+Upstage,NEITHER,South Korea

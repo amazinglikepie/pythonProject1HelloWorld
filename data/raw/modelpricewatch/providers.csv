@@ -1,0 +1,34 @@
+id,name,type,url,pricing_url,founded
+openai,OpenAI,commercial,https://openai.com/,https://openai.com/api/pricing/,2015
+anthropic,Anthropic,commercial,https://www.anthropic.com/,https://platform.claude.com/docs/en/about-claude/pricing,2021
+google,Google,commercial,https://ai.google.dev/,https://ai.google.dev/gemini-api/docs/pricing,1998
+xai,xAI,commercial,https://x.ai/,https://docs.x.ai/developers/models,2023
+deepseek,DeepSeek,commercial,https://www.deepseek.com/,https://api-docs.deepseek.com/quick_start/pricing,2023
+mistral,Mistral,commercial,https://mistral.ai/,https://mistral.ai/pricing,2023
+amazon,Amazon,commercial,https://aws.amazon.com/nova/,https://aws.amazon.com/nova/pricing,1994
+cohere,Cohere,commercial,https://cohere.com/,https://cohere.com/pricing,2019
+meta,Meta,open,https://ai.meta.com/,https://ai.meta.com/llama/,2004
+groq,Groq,hosting,https://groq.com/,https://groq.com/pricing,2016
+together,Together,hosting,https://www.together.ai/,https://www.together.ai/pricing,2022
+fireworks,Fireworks,hosting,https://fireworks.ai/,https://fireworks.ai/pricing,2022
+perplexity,Perplexity,commercial,https://www.perplexity.ai/,https://docs.perplexity.ai/guides/pricing,2022
+nvidia,NVIDIA,hosting,https://www.nvidia.com/,https://build.nvidia.com/,1993
+ibm,IBM,commercial,https://www.ibm.com/,https://www.ibm.com/products/watsonx-ai/pricing,1911
+ai21,AI21 Labs,commercial,https://www.ai21.com/,https://www.ai21.com/pricing,2017
+reka,Reka,commercial,https://www.reka.ai/,https://www.reka.ai/pricing,2022
+voyage,Voyage AI,commercial,https://www.voyageai.com/,https://docs.voyageai.com/pricing,2022
+alibaba,Alibaba,commercial,https://www.alibabacloud.com/,https://www.alibabacloud.com/help/en/model-studio/billing-for-model-studio,2009
+zhipu,Z.AI,commercial,https://z.ai/,https://z.ai/pricing,2019
+moonshot,Moonshot,commercial,https://www.moonshot.cn/,https://platform.moonshot.cn/docs/pricing,2023
+minimax,MiniMax,commercial,https://www.minimaxi.com/,https://www.minimaxi.com/pricing,2021
+01ai,01.AI,commercial,https://www.01.ai/,https://platform.lingyiwanwu.com/docs,2023
+baichuan,Baichuan,commercial,https://www.baichuan-ai.com/,https://platform.baichuan-ai.com/pricing,2023
+tencent,Tencent,commercial,https://www.tencent.com/en-us/,https://intl.cloud.tencent.com/products/tokenhub,1998
+deepinfra,DeepInfra,hosting,https://deepinfra.com/,https://deepinfra.com/pricing,2017
+meituan,Meituan,commercial,https://longcat.chat/,https://longcat.chat/platform/docs/Pricing/LongCat-2.0.html,2010
+thinking-machines,Thinking Machines,commercial,https://thinkingmachines.ai/,https://tinker-docs.thinkingmachines.ai/tinker/models/,2025
+sakana,Sakana AI,commercial,https://sakana.ai/,https://sakana.ai/fugu/,2023
+upstage,Upstage,commercial,https://www.upstage.ai/,https://www.upstage.ai/pricing,2020
+relace,Relace,commercial,https://www.relace.ai/,https://www.relace.ai/pricing,2022
+kwaipilot,Kwaipilot,commercial,https://www.streamlake.com/product/kat-coder,https://www.streamlake.com/product/kat-coder,2011
+inception,Inception,commercial,https://www.inceptionlabs.ai/,https://docs.inceptionlabs.ai/get-started/models,2024

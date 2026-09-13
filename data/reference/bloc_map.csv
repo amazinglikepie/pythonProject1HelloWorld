@@ -1,0 +1,26 @@
+vendor_string,bloc,note
+OpenAI,US,
+Anthropic,US,
+Google,US,
+xAI,US,
+Meta,US,Muse Spark rows in the Artificial Analysis snapshot are labelled vendor "Meta" or "Muse"
+Muse,US,Meta's Muse Spark line
+Amazon,US,
+Microsoft Azure,US,host-provider row; model may be any vendor's
+Amazon Bedrock,US,host-provider row; model may be any vendor's
+Meta / Llama via Together AI,US,Together AI (US host) price for Meta model
+DeepSeek,CN,
+Qwen / Alibaba Cloud,CN,international (alibabacloud.com) USD list price
+Qwen / Alibaba,CN,Artificial Analysis vendor label
+Moonshot AI / Kimi,CN,
+Kimi,CN,Artificial Analysis vendor label for Moonshot
+Moonshot AI,CN,Artificial Analysis vendor label for Moonshot
+MiniMax,CN,
+Xiaomi / MiMo,CN,
+Xiaomi,CN,
+Z AI,CN,Zhipu / Z.ai (GLM)
+Together AI / Z AI,CN_MODEL_US_HOST,price is Together AI's (US host) for a Chinese model; NOT a Chinese provider's own list price — excluded from CN bloc pricing
+GitHub Copilot,NEITHER,subscription product; no per-token price
+Cohere,NEITHER,Canada
+Mistral,NEITHER,France
+Sarvam,NEITHER,India

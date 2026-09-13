@@ -1,0 +1,17 @@
+utc_timestamp	http_code	bytes	url	curl_error
+2026-09-13T06:23:39Z	000	0	https://www.gradually.ai/en/llm-price-index/	curl: (56) CONNECT tunnel failed, response 403 
+2026-09-13T06:23:40Z	000	0	https://pricepertoken.com/pricing-history	curl: (56) CONNECT tunnel failed, response 403 
+2026-09-13T06:23:40Z	000	0	https://joshuaqsh.github.io/posts/llm-pricing-tracker/	curl: (56) CONNECT tunnel failed, response 403 
+2026-09-13T06:23:40Z	000	0	https://artificialanalysis.ai/api/v2/data/llms/models	curl: (56) CONNECT tunnel failed, response 403 
+2026-09-13T06:23:40Z	000	0	https://fred.stlouisfed.org/graph/fredgraph.csv?id=DEXCHUS	curl: (56) CONNECT tunnel failed, response 403 
+2026-09-13T06:23:41Z	000	0	https://www.bankofcanada.ca/valet/observations/FXUSDCAD/csv?recent=5	curl: (56) CONNECT tunnel failed, response 403 
+2026-09-13T06:23:41Z	000	0	https://www.federalreserve.gov/releases/h10/hist/dat00_ch.htm	curl: (56) CONNECT tunnel failed, response 403 
+2026-09-13T06:23:41Z	000	0	https://www.federalreserve.gov/datadownload/Output.aspx?rel=H10&series=c5d6e0edf324b2fb28d73bcacafaaa02&lastobs=&from=01/01/2022&to=12/31/2026&filetype=csv&label=include&layout=seriescolumn	curl: (56) CONNECT tunnel failed, response 403 
+2026-09-13T06:23:41Z	000	0	https://www.kaggle.com	curl: (56) CONNECT tunnel failed, response 403 
+2026-09-13T06:23:42Z	403	378	https://api.github.com/repos/openai/openai-cookbook	
+2026-09-13T06:23:42Z	200	1211	https://raw.githubusercontent.com/openai/openai-cookbook/main/README.md	
+2026-09-13T06:23:42Z	403	378	https://github.com/openai/openai-cookbook	
+2026-09-13T06:23:43Z	000	0	https://web.archive.org/web/2024/https://api-docs.deepseek.com/quick_start/pricing	curl: (56) CONNECT tunnel failed, response 403 
+2026-09-13T06:23:43Z	000	0	https://api-docs.deepseek.com/quick_start/pricing	curl: (56) CONNECT tunnel failed, response 403 
+2026-09-13T06:23:43Z	000	0	https://openai.com/api/pricing/	curl: (56) CONNECT tunnel failed, response 403 
+2026-09-13T06:23:43Z	000	0	https://www.anthropic.com/pricing	curl: (56) CONNECT tunnel failed, response 403 

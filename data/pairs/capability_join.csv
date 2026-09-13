@@ -1,0 +1,69 @@
+bloc,provider,key,base_name,first_day,last_day,span_days,last_input,last_output,n_price_changes,identity,identity_reason,aa_scored,aa_label,aa_index,qiu_scored,qiu_index,in_aa_registry,registry_name,registry_slug,registry_release_date,registry_deprecated
+CN,dashscope,dashscope/qwen-max,qwen-max,2025-07-11,2026-09-13,429,1.6,6.4,1,FIXED,"dated or versioned name, context window constant",0,,,0,,0,,,,
+CN,dashscope,dashscope/qwen-plus,qwen-plus,2025-09-12,2026-09-13,366,0.4,1.2,0,FIXED,"dated or versioned name, context window constant",0,,,0,,0,,,,
+CN,dashscope,dashscope/qwen-turbo,qwen-turbo,2025-09-12,2026-09-13,366,0.05,0.2,0,FIXED,"dated or versioned name, context window constant",0,,,0,,0,,,,
+CN,dashscope,dashscope/qwq-plus,qwq-plus,2025-09-12,2026-09-13,366,0.8,2.4,0,FIXED,"dated or versioned name, context window constant",0,,,0,,0,,,,
+CN,deepseek,deepseek-chat,deepseek-chat,2024-05-07,2026-09-13,859,0.28,0.42,1,ROLLING,"advertised context window changed: ['128000', '131072', '32000']",0,,,0,,0,,,,
+CN,deepseek,deepseek/deepseek-reasoner,deepseek-reasoner,2025-01-23,2026-09-13,598,0.28,0.42,1,ROLLING,"advertised context window changed: ['128000', '64000']",0,,,0,,0,,,,
+CN,deepseek,deepseek/deepseek-r1,deepseek-r1,2025-06-28,2026-09-13,442,0.55,2.19,0,FIXED,"dated or versioned name, context window constant",0,,,0,,1,DeepSeek R1 (Jan '25),deepseek-r1-0120,2025-01-20,True
+CN,deepseek,deepseek/deepseek-v3,deepseek-v3,2025-06-28,2026-09-13,442,0.27,1.1,0,FIXED,"dated or versioned name, context window constant",0,,,0,,1,DeepSeek V3 (Dec '24),deepseek-v3,2024-12-26,True
+CN,moonshot,moonshot/kimi-k2-0711-preview,kimi-k2-0711-preview,2025-07-14,2026-09-13,426,0.6,2.5,0,FIXED,"dated or versioned name, context window constant",0,,,0,,0,,,,
+CN,moonshot,moonshot/moonshot-v1-128k,moonshot-v1-128k,2025-07-14,2026-09-13,426,2.0,5.0,1,FIXED,context-tier SKU of a versioned family; context window constant at 131072,0,,,0,,0,,,,
+CN,moonshot,moonshot/kimi-latest-128k,kimi-latest-128k,2025-07-19,2026-09-13,421,2.0,5.0,0,ROLLING,'latest' alias by construction,0,,,0,,0,,,,
+US,anthropic,claude-2,claude-2,2023-09-06,2025-07-23,686,8.0,24.0,1,FIXED,"dated or versioned name, context window constant",0,,,0,,0,,,,
+US,anthropic,claude-2.1,claude-2.1,2023-11-21,2025-07-23,610,8.0,24.0,1,FIXED,"dated or versioned name, context window constant",0,,,0,,1,Claude 2.1,claude-21,2023-11-21,True
+US,anthropic,claude-3-opus-20240229,claude-3-opus-20240229,2024-03-04,2026-09-13,923,15.0,75.0,0,FIXED,"dated or versioned name, context window constant",0,,,0,,1,Claude 3 Opus,claude-3-opus,2024-03-04,True
+US,anthropic,claude-3-sonnet-20240229,claude-3-sonnet-20240229,2024-03-04,2025-07-23,506,3.0,15.0,0,FIXED,"dated or versioned name, context window constant",0,,,0,,1,Claude 3 Sonnet,claude-3-sonnet,2024-03-04,True
+US,anthropic,claude-3-haiku-20240307,claude-3-haiku-20240307,2024-03-13,2026-09-13,914,0.25,1.25,0,FIXED,"dated or versioned name, context window constant",0,,,0,,1,Claude 3 Haiku,claude-3-haiku,2024-03-04,True
+US,anthropic,claude-3-5-sonnet-20240620,claude-3-5-sonnet-20240620,2024-06-20,2026-03-11,629,3.0,15.0,0,FIXED,"dated or versioned name, context window constant",0,,,0,,1,Claude 3.5 Sonnet (Oct '24),claude-35-sonnet,2024-10-22,True
+US,anthropic,claude-3-5-sonnet-20241022,claude-3-5-sonnet-20241022,2024-10-22,2026-03-11,505,3.0,15.0,0,FIXED,"dated or versioned name, context window constant",0,,,0,,1,Claude 3.5 Sonnet (Oct '24),claude-35-sonnet,2024-10-22,True
+US,anthropic,claude-3-5-haiku-20241022,claude-3-5-haiku-20241022,2024-11-04,2026-03-11,492,0.8,4.0,2,FIXED,"dated or versioned name, context window constant",0,,,0,,1,Claude 3.5 Haiku,claude-3-5-haiku,2024-10-22,True
+US,anthropic,claude-3-7-sonnet-20250219,claude-3-7-sonnet-20250219,2025-02-24,2026-09-13,566,3.0,15.0,0,FIXED,"dated or versioned name, context window constant",0,,,0,,1,Claude 3.7 Sonnet (Reasoning),claude-3-7-sonnet-thinking,2025-02-24,True
+US,anthropic,claude-3-5-haiku-latest,claude-3-5-haiku-latest,2025-02-25,2026-03-11,379,1.0,5.0,0,ROLLING,'latest' alias by construction,0,,,0,,0,,,,
+US,anthropic,claude-3-5-sonnet-latest,claude-3-5-sonnet-latest,2025-02-25,2026-03-11,379,3.0,15.0,0,ROLLING,'latest' alias by construction,0,,,0,,0,,,,
+US,anthropic,claude-3-7-sonnet-latest,claude-3-7-sonnet-latest,2025-02-25,2026-03-11,379,3.0,15.0,0,ROLLING,'latest' alias by construction,0,,,0,,0,,,,
+US,anthropic,claude-3-opus-latest,claude-3-opus-latest,2025-02-25,2026-03-11,379,15.0,75.0,0,ROLLING,'latest' alias by construction,0,,,0,,0,,,,
+US,anthropic,claude-opus-4-20250514,claude-opus-4-20250514,2025-05-22,2026-09-13,479,15.0,75.0,0,FIXED,"dated or versioned name, context window constant",0,,,0,,0,,,,
+US,anthropic,claude-sonnet-4-20250514,claude-sonnet-4-20250514,2025-05-22,2026-09-13,479,3.0,15.0,0,FIXED,"dated or versioned name, context window constant",0,,,0,,0,,,,
+US,anthropic,claude-opus-4-1,claude-opus-4-1,2025-08-07,2026-09-13,402,15.0,75.0,0,FIXED,"dated or versioned name, context window constant",0,,,0,,0,,,,
+US,gemini,gemini/gemini-pro,gemini-pro,2024-01-06,2026-03-11,795,0.35,1.05,1,FIXED,"dated or versioned name, context window constant",0,,,0,,0,,,,
+US,gemini,gemini/gemini-pro-vision,gemini-pro-vision,2024-01-06,2026-03-11,795,0.35,1.05,1,FIXED,"dated or versioned name, context window constant",0,,,0,,0,,,,
+US,gemini,gemini/gemini-1.5-pro,gemini-1.5-pro,2024-02-26,2026-03-11,744,3.5,10.5,4,ROLLING,"advertised context window changed: ['1000000', '2097152']",0,,,0,,1,Gemini 1.5 Pro (Sep '24),gemini-1-5-pro,2024-09-24,True
+US,gemini,gemini/gemini-1.5-flash-latest,gemini-1.5-flash-latest,2024-05-16,2026-03-11,664,0.075,0.3,2,ROLLING,'latest' alias by construction,0,,,0,,0,,,,
+US,gemini,gemini/gemini-2.0-flash,gemini-2.0-flash,2025-02-07,2026-09-13,583,0.1,0.4,1,FIXED,"dated or versioned name, context window constant",0,,,0,,1,Gemini 2.0 Flash (Feb '25),gemini-2-0-flash,2025-02-05,True
+US,gemini,gemini/gemini-2.0-flash-lite,gemini-2.0-flash-lite,2025-03-26,2026-09-13,536,0.075,0.3,0,FIXED,"dated or versioned name, context window constant",0,,,0,,1,Gemini 2.0 Flash-Lite (Feb '25),gemini-2-0-flash-lite-001,2025-02-25,True
+US,gemini,gemini/gemini-2.5-pro,gemini-2.5-pro,2025-06-18,2026-09-13,452,1.25,10.0,0,FIXED,"dated or versioned name, context window constant",0,,,0,,1,Gemini 2.5 Pro,gemini-2-5-pro,2025-06-05,True
+US,gemini,gemini/gemini-2.5-flash,gemini-2.5-flash,2025-06-19,2026-09-13,451,0.3,2.5,0,FIXED,"dated or versioned name, context window constant",0,,,0,,1,Gemini 2.5 Flash (Reasoning),gemini-2-5-flash-reasoning,2025-05-20,True
+US,gemini,gemini/gemini-2.5-flash-lite,gemini-2.5-flash-lite,2025-07-24,2026-09-13,416,0.1,0.4,1,FIXED,"dated or versioned name, context window constant",0,,,0,,1,Gemini 2.5 Flash-Lite (Reasoning),gemini-2-5-flash-lite-reasoning,2025-06-17,True
+US,openai,gpt-3.5-turbo,gpt-3.5-turbo,2023-09-06,2026-09-13,1103,0.5,1.5,1,FIXED,"dated or versioned name, context window constant",0,,,0,,1,GPT-3.5 Turbo,gpt-35-turbo,2022-11-30,True
+US,openai,gpt-4-0314,gpt-4-0314,2023-09-20,2026-09-13,1089,30.0,60.0,0,FIXED,"dated or versioned name, context window constant",0,,,0,,0,,,,
+US,openai,gpt-4-turbo,gpt-4-turbo,2024-04-09,2026-09-13,887,10.0,30.0,0,FIXED,"dated or versioned name, context window constant",0,,,0,,1,GPT-4 Turbo,gpt-4-turbo,2023-11-06,True
+US,openai,gpt-4o,gpt-4o,2024-05-13,2026-09-13,853,2.5,10.0,1,ROLLING,undated name with 3 price revisions,0,,,0,,1,"GPT-4o (March 2025, chatgpt-4o-latest)",gpt-4o-chatgpt-03-25,2025-03-27,True
+US,openai,gpt-4o-mini,gpt-4o-mini,2024-07-18,2026-09-13,787,0.15,0.6,0,ROLLING,undated name with 3 price revisions,0,,,0,,1,GPT-4o mini,gpt-4o-mini,2024-07-18,True
+US,openai,o1-mini,o1-mini,2024-09-12,2026-03-11,545,1.1,4.4,1,ROLLING,undated name with 3 price revisions,0,,,0,,1,o1-mini,o1-mini,2024-09-12,True
+US,openai,o1-preview,o1-preview,2024-09-12,2026-03-11,545,15.0,60.0,0,FIXED,"dated or versioned name, context window constant",0,,,0,,1,o1-preview,o1-preview,2024-09-12,True
+US,openai,o1,o1,2024-12-17,2026-09-13,635,15.0,60.0,0,FIXED,"dated or versioned name, context window constant",0,,,0,,1,o1,o1,2024-12-05,True
+US,openai,o3-mini,o3-mini,2025-01-31,2026-09-13,590,1.1,4.4,0,FIXED,"dated or versioned name, context window constant",0,,,0,,1,o3-mini,o3-mini,2025-01-31,True
+US,openai,gpt-4.5-preview,gpt-4.5-preview,2025-02-27,2026-03-11,377,75.0,150.0,0,FIXED,"dated or versioned name, context window constant",0,,,0,,0,,,,
+US,openai,o1-pro,o1-pro,2025-03-20,2026-09-13,542,150.0,600.0,0,FIXED,"dated or versioned name, context window constant",0,,,0,,1,o1-pro,o1-pro,2025-03-19,True
+US,openai,gpt-4.1,gpt-4.1,2025-04-14,2026-09-13,517,2.0,8.0,0,FIXED,"dated or versioned name, context window constant",0,,,0,,1,GPT-4.1,gpt-4-1,2025-04-14,True
+US,openai,gpt-4.1-mini,gpt-4.1-mini,2025-04-14,2026-09-13,517,0.4,1.6,0,FIXED,"dated or versioned name, context window constant",0,,,0,,1,GPT-4.1 mini,gpt-4-1-mini,2025-04-14,True
+US,openai,gpt-4.1-nano,gpt-4.1-nano,2025-04-14,2026-09-13,517,0.1,0.4,0,FIXED,"dated or versioned name, context window constant",0,,,0,,1,GPT-4.1 nano,gpt-4-1-nano,2025-04-14,True
+US,openai,o3,o3,2025-04-16,2026-09-13,515,2.0,8.0,1,FIXED,"dated or versioned name, context window constant",0,,,0,,1,o3,o3,2025-04-16,False
+US,openai,o4-mini,o4-mini,2025-04-16,2026-09-13,515,1.1,4.4,0,FIXED,"dated or versioned name, context window constant",0,,,0,,1,o4-mini (high),o4-mini,2025-04-16,True
+US,openai,codex-mini-latest,codex-mini-latest,2025-06-06,2026-09-13,464,1.5,6.0,0,ROLLING,'latest' alias by construction,0,,,0,,0,,,,
+US,openai,o3-pro,o3-pro,2025-06-10,2026-09-13,460,20.0,80.0,0,FIXED,"dated or versioned name, context window constant",0,,,0,,1,o3-pro,o3-pro,2025-06-10,True
+US,openai,gpt-5,gpt-5,2025-08-07,2026-09-13,402,1.25,10.0,0,FIXED,"dated or versioned name, context window constant",0,,,0,,1,GPT-5 (high),gpt-5,2025-08-07,True
+US,openai,gpt-5-chat,gpt-5-chat,2025-08-07,2026-09-13,402,1.25,10.0,1,ROLLING,"advertised context window changed: ['1047576', '400000']",0,,,0,,0,,,,
+US,openai,gpt-5-mini,gpt-5-mini,2025-08-07,2026-09-13,402,0.25,2.0,0,FIXED,"dated or versioned name, context window constant",0,,,0,,1,GPT-5 mini (medium),gpt-5-mini-medium,2025-08-07,True
+US,openai,gpt-5-nano,gpt-5-nano,2025-08-07,2026-09-13,402,0.05,0.4,0,FIXED,"dated or versioned name, context window constant",0,,,0,,1,GPT-5 nano (high),gpt-5-nano,2025-08-07,True
+US,perplexity,perplexity/sonar,sonar,2025-02-12,2026-09-13,578,1.0,1.0,0,ROLLING,"advertised context window changed: ['127072', '128000']",0,,,0,,1,Sonar,sonar,2025-01-21,True
+US,perplexity,perplexity/sonar-pro,sonar-pro,2025-02-12,2026-09-13,578,3.0,15.0,0,FIXED,"dated or versioned name, context window constant",0,,,0,,1,Sonar Pro,sonar-pro,2025-01-21,True
+US,perplexity,perplexity/sonar-reasoning,sonar-reasoning,2025-05-08,2026-09-13,493,1.0,5.0,0,FIXED,"dated or versioned name, context window constant",0,,,0,,1,Sonar Reasoning,sonar-reasoning,2025-01-28,True
+US,perplexity,perplexity/sonar-reasoning-pro,sonar-reasoning-pro,2025-05-08,2026-09-13,493,2.0,8.0,0,FIXED,"dated or versioned name, context window constant",0,,,0,,1,Sonar Reasoning Pro,sonar-reasoning-pro,2025-01-28,True
+US,xai,xai/grok-beta,grok-beta,2024-11-01,2026-08-27,664,5.0,15.0,0,FIXED,"dated or versioned name, context window constant",0,,,0,,1,Grok Beta,grok-beta,2024-08-13,True
+US,xai,xai/grok-2,grok-2,2025-01-30,2026-08-27,574,2.0,10.0,0,FIXED,"dated or versioned name, context window constant",0,,,0,,1,Grok 2 (Dec '24),grok-2-1212,2024-12-12,True
+US,xai,xai/grok-3,grok-3,2025-05-21,2026-09-13,480,1.25,2.5,1,ROLLING,undated name with 5 price revisions,0,,,0,,1,Grok 3,grok-3,2025-02-19,True
+US,xai,xai/grok-3-mini,grok-3-mini,2025-06-14,2026-09-13,456,1.25,2.5,1,ROLLING,undated name with 5 price revisions,0,,,0,,0,,,,
+US,xai,xai/grok-4,grok-4,2025-07-10,2026-09-13,430,1.25,2.5,1,FIXED,"dated or versioned name, context window constant",0,,,0,,1,Grok 4,grok-4,2025-07-10,True
+US,xai,xai/grok-code-fast-1,grok-code-fast-1,2025-08-29,2026-09-13,380,1.0,2.0,1,FIXED,"dated or versioned name, context window constant",0,,,0,,1,Grok Code Fast 1,grok-code-fast-1,2025-08-28,True

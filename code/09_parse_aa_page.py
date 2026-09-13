@@ -13,7 +13,7 @@ Nothing is filtered here.
 """
 import argparse, csv, hashlib, html as html_lib, json, pathlib, re
 
-MARKERS = ('\\"models\\":[{\\"additional_text\\"', '\\"defaultData\\":[{\\"additional_text\\"')
+MARKERS = ('\\"models\\":[{\\"additional_text\\"', '\\"defaultData\\":[{\\"additional_text\\"', '\\"models\\":[{', '\\"defaultData\\":[{')
 
 def decode_embedded_array(text: str, marker: str):
     i = text.find(marker)
